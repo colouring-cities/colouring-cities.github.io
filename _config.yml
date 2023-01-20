@@ -1,4 +1,4 @@
-# Welcome to Jekyll!
+t# Welcome to Jekyll!
 #
 # This config file is meant for settings that affect your whole blog, values
 # which you are expected to set up once and rarely edit after that. If you find
@@ -33,6 +33,7 @@ github_username:  jekyll
 remote_theme: pages-themes/slate@v0.2.0
 plugins:
   - jekyll-feed
+  - jekyll-remote-theme
 
 # Exclude from processing.
 # The following items will not be processed, by default.
