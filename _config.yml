@@ -30,10 +30,8 @@ twitter_username: jekyllrb
 github_username:  jekyll
 
 # Build settings
-theme: minima
-remote_theme: pages-themes/slate@v0.2.0
+theme: slate
 plugins:
-  - jekyll-remote-theme
   - jekyll-feed
 
 # Exclude from processing.
