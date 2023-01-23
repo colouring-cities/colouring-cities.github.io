@@ -20,7 +20,7 @@
 
 title: Colouring Cities Research Programme
 email: your-email@example.com
-description: The Colouring Cities Research Programme includes encompasses nine independent platforms representing a broad international coalition.
+description: The Colouring Cities Research Programme includes nine independent platforms representing a broad international coalition.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 # twitter_username: jekyllrb
