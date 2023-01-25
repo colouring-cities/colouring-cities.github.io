@@ -20,14 +20,14 @@
 
 title: Colouring Cities Research Programme
 email: your-email@example.com
-description: The Colouring Cities Research Programme includes nine independent platforms representing a broad international coalition.
+description: The Colouring Cities Research Programme (CCRP) develops and maintains an open, reproducible platform for collecting and visaulising data on national buildings stocks 
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 # twitter_username: jekyllrb
 github_username:  colouring-cities
 
 # Build settings
-remote_theme: pages-themes/slate@v0.2.0
+remote_theme: pages-themes/minimal@v0.2.0
 plugins:
 - jekyll-remote-theme
 
