@@ -7,8 +7,11 @@ layout: default
 ![CCRP Global Map](images/CCmap.JPG)
 
 [Colouring London](https://colouring.london)
+
 [Colouring Australia](https://www.colouringaustralia.org)
+
 [Colouring Athens](https://athens.colouringcities.org)
+
 [Colouring Indonesia](https://indonesia.colouringcities.org)
 
 The Colouring Cities Research Programme (CCRP) has been set up at the [Alan Turing Instititute](https://www.turing.ac.uk) - the UK's National Institute for Data Science and Artificial Intelligence - to facilitate the sharing of knowledge and data about buildings at national and international level. 
