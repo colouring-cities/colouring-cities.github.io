@@ -24,7 +24,7 @@ description: The Colouring Cities Research Programme (CCRP) develops and maintai
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 # twitter_username: jekyllrb
-github_username:  colouring-cities
+github_username:  colouring-cities.github.io
 
 # Build settings
 remote_theme: pages-themes/minimal@v0.2.0
