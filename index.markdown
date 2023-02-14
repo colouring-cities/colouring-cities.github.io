@@ -4,7 +4,7 @@
 
 layout: default
 ---
-![CCRP Global Map](assets/images/CCmap.JPG)
+![CCRP Global Map](assets/images/ccmap.png)
 
 [Colouring London](https://colouring.london)
 
