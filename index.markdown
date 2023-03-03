@@ -8,7 +8,6 @@ layout: default
 
 <img width="376" alt="image" src="https://user-images.githubusercontent.com/42236514/222842034-1ab5aa6c-d6fb-4d7d-b47c-4864502390cb.png">
 
-![CCRP Global Map](assets/images/ccmap.png)
 
 - The Colouring Cities Research Programme (CCRP) develops open-source code for knowledge sharing mapping platforms that provide open spatial data on the composition, performance and dynamics of building stocks. 
 
@@ -18,6 +17,8 @@ layout: default
 <img width="2236" alt="image" src="https://user-images.githubusercontent.com/42236514/222842117-eac03c0d-681b-4672-a889-5f3287533a9e.png">
 
 - The CCRP tests an a low-cost, distributed management, academic governance model for networked open building attribute data platforms. This involves international academic institutions specialising in building stock research co-working on core platform design and code, and on data analysis; 
+
+![CCRP Global Map](assets/images/ccmap.png)
 
 Lead institutions for Colouring Cities demonstration platforms, and links to live platforms:  are as follows: 
 
@@ -34,13 +35,13 @@ The Alan Turing Institute
 The District University of Bogotá -Universidad Distrital - Francisco Jose de Caldas. 
 
 - COLOURING GERMANY: [Colouring Dresden](https://colouring.dresden.ioer.de/view/sustainability)
-The 
+The Leibniz Institute of Ecological Urban and Regional Development, Dresden
 
 - COLOURING GREECE: [Colouring Athens](https://athens.colouringcities.org/)
 - National Technical University of Athens
 
 - COLOURING INDONESIA: [Colouring Bandung](https://indonesia.colouringcities.org)
-- King's College London & the Institut Teknologi Bandung
+-King's College London & the Institut Teknologi Bandung
 
 -COLOURING LEBANON: Colouring Beirut- relaunch due March 2023
 The American University of Beirut's Urban Lab
