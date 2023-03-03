@@ -22,35 +22,34 @@ layout: default
 
 The Colouring Cities Research Programme's international academic partners are as follows- live platform links are included where platforms have launched.  
 
-- COLOURING AUSTRALIA: [Colouring Sydney, Melbourne, Brisbane, Adelaide and Perth](https://www.colouringaustralia.org)
+- COLOURING AUSTRALIA: [Colouring Sydney, Melbourne, Brisbane, Adelaide and Perth](https://www.colouringaustralia.org).
 The Cities Future Research Centre at the University of New South Wales.Colouring Australia: 
 
 - COLOURING BAHRAIN: Colouring Bahrain platform launch due 2023. 
-he University of Bahrain's Urban and Housing Lab
+The University of Bahrain's Urban and Housing Lab
 
-- COLOURING BRITAIN: [Colouring London](https://colouring.london)
+- COLOURING BRITAIN: [Colouring London](https://colouring.london).
 The Alan Turing Institute
 
-- COLOURING COLOMBIA:Colouring Bogotá launch due March 2023 
+- COLOURING COLOMBIA:Colouring Bogotá launch due March 2023. 
 The District University of Bogotá -Universidad Distrital - Francisco Jose de Caldas. 
 
-- COLOURING GERMANY: [Colouring Dresden](https://colouring.dresden.ioer.de/view/sustainability)
+- COLOURING GERMANY: [Colouring Dresden](https://colouring.dresden.ioer.de/view/sustainability).
 The Leibniz Institute of Ecological Urban and Regional Development, Dresden
 
-- COLOURING GREECE: [Colouring Athens](https://athens.colouringcities.org/)
-National Technical University of Athens
+- COLOURING GREECE: [Colouring Athens](https://athens.colouringcities.org/).
+the National Technical University of Athens
 
-- COLOURING INDONESIA: [Colouring Bandung](https://indonesia.colouringcities.org)
+- COLOURING INDONESIA: [Colouring Bandung](https://indonesia.colouringcities.org).
 King's College London & the Institut Teknologi Bandung
 
-- COLOURING LEBANON: Colouring Beirut- relaunch due March 2023
+- COLOURING LEBANON: Colouring Beirut- relaunch due March 2023.
 The American University of Beirut's Urban Lab
 [Academic team](https://github.com/colouring-cities/manual/wiki/M7.-COLOURING-LEBANON)
 
-- COLOURING SWEDEN
-Department of Sustainable Environment and Construction, School of Business Society and Engineering, Mälardalen University
+- COLOURING SWEDEN: Launch due March 2023.
+The Department of Sustainable Environment and Construction, School of Business Society and Engineering, Mälardalen University
 
-<img width="448" alt="Screenshot 2023-02-09 at 13 41 21" src="https://user-images.githubusercontent.com/42236514/222847624-e1122cab-94da-459d-895b-0c9ef8dc97ee.png">
 
 Screenshot 2023-01-24 at 18.57.01<img width="1317" alt="image" src="https://user-images.githubusercontent.com/42236514/222847867-971d71cd-3b35-45d1-b5be-fd49021d31e6.png">
 
