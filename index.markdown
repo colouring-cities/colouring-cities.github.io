@@ -6,25 +6,30 @@ layout: default
 ---
 ![CCRP Global Map](assets/images/ccmap.png)
 
-Colouring Australia: [Colouring Sydney, Melbourne, Brisbane, Adelaide and Perth](https://www.colouringaustralia.org)
 
-Colouring Britain: [Colouring London](https://colouring.london)
+- The Colouring Cities Research programme (CCRP) has been set up at the [Alan Turing Instititute](https://www.turing.ac.uk) - the UK's National Institute for Data Science and Artificial Intelligence - to facilitate the sharing of knowledge and data about buildings at national and international level. 
 
-Colouring Germany: [Colouring Dresden](https://colouring.dresden.ioer.de/view/sustainability)
+- Our aim is to increase stock quality, sustainability, efficiency and resilience, to support the United Nations' Sustainable Development Goals, and to assist communities and other stakeholders in this process. 
 
-Colouring Greece: [Colouring Athens](https://athens.colouringcities.org/)
+- We also look to effect a step-change in the amount and type of building level attribute data available for use in research and practice , and in the application of AI and machine learning to advance understanding of the stock as a complex dynamic system.
 
-Colouring Indonesia [Colouring Bandung](https://indonesia.colouringcities.org)
+- The CCRP tests an a low-cost, distributed management, academic governance model for interopereable open building attribute data platforms. This involves specialist departments within international academic institutions specialising in research into building stock composition, performance and/or dynamic behaviour, co-working on core platform design and code, and on data analysis; Lead institutions are as follows: 
 
-Live Colouring Cities platforms will also soon be activated in Colombia, Lebanon and Sweden and Bahrain. 
+- Colouring Australia: [Colouring Sydney, Melbourne, Brisbane, Adelaide and Perth](https://www.colouringaustralia.org)
+The University of New South Wales
 
-- The CCRP has been set up at the [Alan Turing Instititute](https://www.turing.ac.uk) - the UK's National Institute for Data Science and Artificial Intelligence - to facilitate the sharing of knowledge and data about buildings at national and international level. 
+- Colouring Britain: [Colouring London](https://colouring.london)
+The Alan Turing Institute
 
-- The aim of the research programme is to increase stock quality, sustainability, efficiency and resilience, to support the United Nations' Sustainable Development Goals, and to assist communities and other stakeholders in this process. 
+- Colouring Germany: [Colouring Dresden](https://colouring.dresden.ioer.de/view/sustainability)
 
-- The CCRP also looks to effect a step-change in the amount and type of building level attribute data available for use in sresearch and practice specifically, and in the application of AI and machine learning, to advance understanding of the stock as a complex dynamic system.
+- Colouring Greece: [Colouring Athens](https://athens.colouringcities.org/)
 
-For more information on different aspects of the Colouring Cities programme please see our live CCRP Open Manual pages:
+- Colouring Indonesia [Colouring Bandung](https://indonesia.colouringcities.org)
+
+- Live Colouring Cities platforms will also soon be activated in Colombia, Lebanon and Sweden and Bahrain. 
+
+- For more information on different aspects of the Colouring Cities programme please see our live CCRP Open Manual pages:
 
 - [About](https://github.com/colouring-cities/manual/wiki/A.-What-is-the-CCRP%3F)
 - [International Research Partners and academic teams](https://github.com/colouring-cities/manual/wiki/B.-CCRP-INTERNATIONAL-RESEARCH-PARTNERS-;-links,-resources,-protocols-&-meeting-dates)
