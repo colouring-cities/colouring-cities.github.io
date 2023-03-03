@@ -26,10 +26,16 @@ Live Colouring Cities platforms will also soon be activated in Colombia, Lebanon
 
 For more information on different aspects of the Colouring Cities programme please see our Open Manual pages which are currently being edited:
 
-Management and International Partners
-Governance and funding
-Data
-Ethics
-Technical description
-Information of partner Institution 
-[Publications and events](https://github.com/colouring-cities/manual/wiki/E:-CCRP--PUBLICATIONS-&-ARTICLES)
+- [About](https://github.com/colouring-cities/manual/wiki/A.-What-is-the-CCRP%3F)
+- [International Research Partners and academic teams](https://github.com/colouring-cities/manual/wiki/B.-CCRP-INTERNATIONAL-RESEARCH-PARTNERS-;-links,-resources,-protocols-&-meeting-dates0
+- [Research goals and research methods](https://github.com/colouring-cities/manual/wiki/G.-RESEARCH-GOALS-&-METHODS)
+- [Governance, strategy & risk mitigation](https://github.com/colouring-cities/manual/wiki/F.-CCRP-GOVERNANCE-MODEL,-development-strategy,-risks-&-funding)
+- [Funding]() 
+- [Data](https://github.com/colouring-cities/manual/wiki/I.--DATA)
+- [Data Capture Methods](https://github.com/colouring-cities/manual/wiki/J.-DATA-CAPTURE-METHODS--choice-and-discussion)
+- [Ethics]()
+- [Technical description](https://github.com/colouring-cities/manual/wiki/D1.-TECHNICAL:-Overview-and-background)
+- [Publications and events](https://github.com/colouring-cities/manual/wiki/E:-CCRP--PUBLICATIONS-&-ARTICLES)
+- [Open Manual](https://github.com/colouring-cities/manual/wiki)
+
+If you are an academic insitution interested in joining the Colouring Cities Research Programme, in a country not yet represented, and in using our Colouring Cities open code for collaborative research purposes, please contact Polly Hudson at phudson@turing.ac.uk. If you would like to partner with a specific Colouring Cities platfom please contact the Principal Investigator for the relevant country- details of which are available in our[Open Manual](https://github.com/colouring-cities/manual/wiki)
