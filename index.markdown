@@ -24,10 +24,10 @@ Live Colouring Cities platforms will also soon be activated in Colombia, Lebanon
 
 - The CCRP also looks to effect a step-change in the amount and type of building level attribute data available for use in sresearch and practice specifically, and in the application of AI and machine learning, to advance understanding of the stock as a complex dynamic system.
 
-For more information on different aspects of the Colouring Cities programme please see our Open Manual pages which are currently being edited:
+For more information on different aspects of the Colouring Cities programme please see our live CCRP Open Manual pages:
 
 - [About](https://github.com/colouring-cities/manual/wiki/A.-What-is-the-CCRP%3F)
-- [International Research Partners and academic teams](https://github.com/colouring-cities/manual/wiki/B.-CCRP-INTERNATIONAL-RESEARCH-PARTNERS-;-links,-resources,-protocols-&-meeting-dates0
+- [International Research Partners and academic teams](https://github.com/colouring-cities/manual/wiki/B.-CCRP-INTERNATIONAL-RESEARCH-PARTNERS-;-links,-resources,-protocols-&-meeting-dates)
 - [Research goals and research methods](https://github.com/colouring-cities/manual/wiki/G.-RESEARCH-GOALS-&-METHODS)
 - [Governance, strategy & risk mitigation](https://github.com/colouring-cities/manual/wiki/F.-CCRP-GOVERNANCE-MODEL,-development-strategy,-risks-&-funding)
 - [Funding]() 
