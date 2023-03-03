@@ -12,9 +12,11 @@ Colouring Britain: [Colouring London](https://colouring.london)
 
 Colouring Germany: [Colouring Dresden](https://colouring.dresden.ioer.de/view/sustainability)
 
+Colouring Greece: [Colouring Athens](https://athens.colouringcities.org/)
+
 Colouring Indonesia [Colouring Bandung](https://indonesia.colouringcities.org)
 
-Colouring Cities platforms in Colombia,  Lebanon and Sweden and due to launch in April and Colouring Bahrain later in 2023. More information on individual platforms is available in the Colouring Cities Research Programme's [GitHub Open Manual](https://github.com/colouring-cities/manual/wiki/B.-CCRP-INTERNATIONAL-RESEARCH-PARTNERS-;-links,-resources,-protocols-&-meeting-dates)
+Colouring Cities platforms in Colombia, Lebanon and Sweden are due to launch in April, and Colouring Bahrain later in 2023. More information on individual platforms developed by academic institutions, as part of the Colouring Cities Research Programme, is available from our[Open Manual](https://github.com/colouring-cities/manual/wiki/B.-CCRP-INTERNATIONAL-RESEARCH-PARTNERS-;-links,-resources,-protocols-&-meeting-dates)
 
 The CCRP has been set up at the [Alan Turing Instititute](https://www.turing.ac.uk) - the UK's National Institute for Data Science and Artificial Intelligence - to facilitate the sharing of knowledge and data about buildings at national and international level. 
 The aim of the research programme is to increase stock quality, sustainability, efficiency and resilience, to support the United Nations' Sustainable Development Goals, and to assist communities and other stakeholders in this process. 
