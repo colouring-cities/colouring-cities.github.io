@@ -20,7 +20,7 @@ layout: default
 
 ![CCRP Global Map](assets/images/ccmap.png)
 
-The Colouring Cities Research Programme's international academic partners are as follows- live platform links are included where platforms have launched.  
+International academic partners are listed below with Colouring Cities platform links also included where these platforms have gone live.  
 
 - COLOURING AUSTRALIA: [Colouring Sydney, Melbourne, Brisbane, Adelaide and Perth](https://www.colouringaustralia.org).
 The Cities Future Research Centre at the University of New South Wales.Colouring Australia: 
