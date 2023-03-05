@@ -111,8 +111,12 @@ All CCRP platforms are at different stages of development. Current academic CCRP
 **Academic lead**
 * [Research Area Spatial Information and Modelling. Leibniz Institute of Ecological Urban and Regional Development, Dresden](https://www.ioer.de/en/)
 
-**Demonstration platform link**
-* [Colouring Dresden](https://colouring.dresden.ioer.de)
+**Demonstration platform links**
+* [Colouring Dresden Maps](https://colouring.dresden.ioer.de/)
+* [Colouring Dresden Information](https://colouring.dresden.ioer.info/)
+* [Colouring Dresden Newsletter](https://seu2.cleverreach.com/f/203678-351100/) 
+* [Colouring Dresden Twitter](https://twitter.com/colouringdd) 
+* [Colouring Dresden Instagram](https://www.instagram.com/colouringdd/) 
 
 **CCRP information page**
 * [Colouring Germany page link](https://github.com/colouring-cities/manual/wiki/M5.-COLOURING-GERMANY)
