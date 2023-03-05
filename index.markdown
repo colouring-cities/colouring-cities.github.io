@@ -132,7 +132,7 @@ All CCRP platforms are at different stages of development. Current CCRP partner 
 
 ***
 
-COLOURING LEBANON
+### COLOURING LEBANON
 ![lebanon](https://user-images.githubusercontent.com/42236514/184538503-f9cb163d-3626-48f4-a563-59b7f5436654.JPG)
 
 **Academic leads**
@@ -146,7 +146,7 @@ COLOURING LEBANON
 
 ***
 
-> COLOURING SWEDEN
+### COLOURING SWEDEN
 
 **Academic leads**
 * [Department of Sustainable Environment and Construction, School of Business Society and Engineering, Mälardalen University, Västerås](https://www.mdu.se/)
@@ -159,7 +159,8 @@ COLOURING LEBANON
 
 ***
 
-As the number of countries involved in the CCRP expands, Global Region Hubs. Hubs are being designed to bring together and support discussion between academic institutions testing Colouring Cities platforms, and to help to encourage use of CCRP data ib socio-economic and environmental research. Three hubs, operating within similar time zones, are proposed:
+## **Academic networks and hubs**
+As the number of countries involved in the CCRP expands, Global Region Hubs will be set-up to bring together and support discussion between academic institutions testing Colouring Cities platforms, and to help to encourage and track use of CCRP data in socio-economic and environmental research. Three hubs, operating within similar time zones, are proposed:
 * Asia & Australasia
 * Europe & the Middle East
 * North, Central & South America
@@ -170,32 +171,12 @@ As the number of countries involved in the CCRP expands, Global Region Hubs. Hub
 ***
 
 ## **CCRP Quality control and platform interoperability**
-CCRP branding is tightly controlled to maintain programme and platform quality, and to maximise user trust. Branding is also important as platform code is open-source, with experimentation by software developers and engineers encouraged. The CCRP provides the necessary space to allow international research partners to co-design and test platforms to the highest standards, to explore the potential value of captured data in many areas of building stock research, and to ensure ethical considerations are prioritised. Clear branding is also necessary to allow the purpose, principles, and quality and of Colouring Cities platforms to be instantly understood regardless of which country a Colouring Cities platform is set up in. Improvements to interface design and content are ongoing and incremental, building on findings from the CCRP group. CCCP partners use identical interfaces and main data category keypads to maximise clarity and interoperability of systems. Where platforms differ is in additional subcategory inclusion relevant to national/regional contexts, open-source code for which is also available within the CCRP GitHub repository. 
+CCRP branding is tightly controlled to maintain programme and platform quality, and to maximise user trust. Branding is also important as platform code is open-source, with experimentation by software developers and engineers encouraged. The CCRP provides the necessary space to allow international research partners to co-design and test platforms to the highest standards, to explore the potential value of captured building attribute data in many areas of socio-economic and environmental reseach, and to ensure ethical considerations are prioritised. Clear branding is also necessary to allow the purpose, principles, and quality and of Colouring Cities platforms to be instantly understood regardless of which country a Colouring Cities platform is set up in. Improvements to interface design and content are ongoing and incremental, building on findings from the CCRP group. CCCP partners use identical interfaces and main data category keypads to maximise clarity and interoperability of systems. Where platforms differ is in additional subcategory inclusion relevant to national/regional contexts, open-source code for which is also available within the CCRP GitHub repository. 
 
-CCRP research partners can be identified by their exclusive use of the Colouring Cities logo, and their inclusion on this page, on the [Alan Turing Institute CCRP webpage](https://www.turing.ac.uk/research/research-projects/colouring-london-and-colouring-cities-research-programme).  No other applications of Colouring Cities code, interface design or logo are endorsed by the Alan Turing Institute. CCRP resources by Turing and protocols are discussed below.
-
-***
-
-## **CCRP Resources**
-Resources provided by the Alan Turing Institute for CCRP partners - in addition to the Colouring London working prototype, core open-source code and the open manual which are accessible to all - are as follows:
-
-* Use of the Colouring Cities Research Programme logo;
-* Inclusion on the Alan Turing Institute [website](https://www.turing.ac.uk/research/research-projects/colouring-london-and-colouring-cities-research-programme) and the CCRP Open Manual; 
-* Free use of the Colouring Cities domain name;
-* Dedicated partner page on the Colouring Cities [Open Manual](https://github.com/colouring-cities/manual/wiki/) with editing rights; 
-* Access to online CCRP PI and engineering meetings managed by The Alan Turing Institute (see meeting programme below);
-* Software engineering guidance for research software engineering teams for demo platform development;
-* Help-in-kind support for funding applications which relate to CCRP platform setup; 
-* Opportunities to co-work on platform code and share engineering expertise; 
-* Opportunities to co-work on content and interface design and share research and stakeholder expertise;
-* Opportunities to co-work on additional platform tools as well as animations and simulations of data and 3D/4D open models;
-* Opportunities to co-work work on data analysis across countries and to experiment with AI and machine learning approaches;
-* Opportunities to co-work on research papers;
-* Opportunities for joint publicity;
-* Opportunities to co-work on international funding bids.
+CCRP research partners can be identified by their exclusive use of the Colouring Cities logo, and their inclusion on this page, and n the [Alan Turing Institute CCRP webpage](https://www.turing.ac.uk/research/research-projects/colouring-london-and-colouring-cities-research-programme).  No other applications of Colouring Cities code, interface design or logo are endorsed by the Alan Turing Institute. Information on CCRP resources provided by The Alan Turing Insititute and Academic Partner Protocols acam be found [here](https://github.com/colouring-cities/manual/wiki/B.-CCRP-INTERNATIONAL-RESEARCH-PARTNERS-;-links,-resources,-protocols-&-meeting-dates).
 
 ***
-
+Open Manual Links
 
 
 - For more information on different aspects of the Colouring Cities programme please see links below or view our [Open Manual](https://github.com/colouring-cities/manual/wiki)
