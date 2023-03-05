@@ -30,7 +30,7 @@ Colouring Cities platforms collect, collate, visualise, verify, enrich and relea
 Colouring Cities platforms use building footprints, of the highest quality, openness and geographic coverage available, as their basic building block. As well as providing information on the shape and size of buildings, footprints act as mini filing cabinets, allowing information to be easily captured, collated, verified and visualised. Live co-creation of maps through the colouring-in of footprints forms a key feature of platform design. 
 
  
-## CCRP research partners/platform hosts**
+## CCRP research partners/platform hosts
 
 All CCRP platforms are at different stages of development. Current academic CCRP partner details and live platform links (where available) are provided below:  
 
