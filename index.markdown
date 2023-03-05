@@ -6,9 +6,6 @@ layout: default
 ---
 <img width="376" alt="image" src="https://user-images.githubusercontent.com/42236514/222842056-76e0b807-9b14-451d-b2ee-4159d1f58875.png">
 
-<img width="376" alt="image" src="https://user-images.githubusercontent.com/42236514/222842034-1ab5aa6c-d6fb-4d7d-b47c-4864502390cb.png">
-
-
 - The Colouring Cities Research Programme (CCRP) develops open-source code for knowledge sharing mapping platforms that provide open spatial data on the composition, performance and dynamics of building stocks. 
 
 - The aim of the CCRP is to provide open tools to improve stock quality, sustainability, efficiency and resilience, in line with United Nations New Urban Agenda and Sustainable Development Goals. Large-scale databases are also essential to enable AI applications to provide insights into the stock as a complex, dynamic system, and into underlying rules, cycles and patterns  operating in it to improve predictive models. 
