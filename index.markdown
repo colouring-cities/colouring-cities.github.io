@@ -29,13 +29,16 @@ The Cities Future Research Centre at the University of New South Wales.Colouring
 The University of Bahrain's Urban and Housing Lab
 
 - COLOURING BRITAIN: [Colouring London](https://colouring.london).
-The Alan Turing Institute
+The Alan Turing<img width="1393" alt="INSPIRE parcels overlaid onto planning application status" src="https://user-images.githubusercontent.com/42236514/222947878-c8975913-ac4d-4c4b-92fb-c125f16260dd.png">
+ Institute
 
 - COLOURING COLOMBIA:Colouring Bogotá launch due March 2023. 
 The District University of Bogotá -Universidad Distrital - Francisco Jose de Caldas. 
 
-- COLOURING GERMANY: [Colouring Dresden](https://colouring.dresden.ioer.de/view/sustainability).
+- COLOURING GERMANY: [Colouring Dresden](https://colouring.dresden.ioer.de/view/sustainability](https://colouring.dresden.ioer.de).
 The Leibniz Institute of Ecological Urban and Regional Development, Dresden
+<img width="1345" alt="Screenshot 2023-03-05 at 07 29 43" src="https://user-images.githubusercontent.com/42236514/222947861-c1c98129-da4a-44ce-ae0a-15763d1c1860.png">
+
 
 - COLOURING GREECE: [Colouring Athens](https://athens.colouringcities.org/).
 the National Technical University of Athens
