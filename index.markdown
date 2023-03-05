@@ -138,8 +138,8 @@ All CCRP platforms are at different stages of development. Current academic CCRP
 <img width="1384" alt="Screenshot 2023-03-05 at 13 10 43" src="https://user-images.githubusercontent.com/42236514/222962494-2bb07b6b-7b3e-480a-8d2e-9634a1c722f4.png">
 
 **Academic leads**
-*     [Department of Geography, King's College London UK](https://www.kcl.ac.uk/geography/contact-us)
-*     Departments of Geodesy and Geomatic Engineering & of Urban and Regional Planning, [Institut Teknologi Bandung, Indonesia](https://www.itb.ac.id/)
+* [Department of Geography, King's College London UK](https://www.kcl.ac.uk/geography/contact-us)
+* [Departments of Geodesy and Geomatic Engineering & of Urban and Regional Planning. Institut Teknologi Bandung, Indonesia](https://www.itb.ac.id/)
 
 **Demonstration platform link**
 * [Colouring Indonesia](https://indonesia.colouringcities.org/)
