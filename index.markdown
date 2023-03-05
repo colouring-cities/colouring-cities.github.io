@@ -121,7 +121,7 @@ All CCRP platforms are at different stages of development. Current academic CCRP
 
 ### COLOURING GREECE
 
-<img width="1391" alt="Screenshot 2023-03-05 at 12 22 09" src="https://user-images.githubusercontent.com/42236514/222960329-0183a3be-005c-4903-b000-38babc227a26.png">
+![image](https://user-images.githubusercontent.com/42236514/169532709-7a753e69-d1be-4c40-8f6e-fafac7fabcba.png)
 
 **Academic lead**
 * [Urban Planning Research Lab, School of Architecture. National Technical University of Athens](http://www.arch.ntua.gr/) 
