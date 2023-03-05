@@ -124,8 +124,9 @@ All CCRP platforms are at different stages of development. Current academic CCRP
 <img width="1391" alt="Screenshot 2023-03-05 at 12 22 09" src="https://user-images.githubusercontent.com/42236514/222960329-0183a3be-005c-4903-b000-38babc227a26.png">
 
 **Academic lead**
-* [Urban Planning Research Lab - School of Architecture National Technical University of Athens](http://www.arch.ntua.gr/) 
-* [Geochoros Geospatial Analysis and GIS Research Group, School of Rural, Surveying and Geoinformatics Engineering. National Technical University of Athens](https://www.survey.ntua.gr/en/).
+* [Urban Planning Research Lab, School of Architecture. National Technical University of Athens](http://www.arch.ntua.gr/) 
+* [Geochoros Geospatial Analysis and GIS Research Group, School of Rural, Surveying and Geoinformatics Engineering. National Technical University of Athens](https://www.survey.ntua.gr/en/)
+
 **Demonstration platform link**
 * [Colouring Athens](https://athens.colouringcities.org/)
 
