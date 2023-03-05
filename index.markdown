@@ -42,7 +42,7 @@ All CCRP platforms are at different stages of development. Current CCRP partner 
 
 ***
 
-> ### COLOURING BAHRAIN
+### COLOURING BAHRAIN
 **Academic lead** 
 * [Urban and Housing Lab. University of Bahrain](https://uhl.center/)
 
