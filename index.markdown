@@ -10,7 +10,7 @@ layout: default
 
 ## Overview
 
-The Colouring Cities Research Programme (CCRP) designs and tests open-source tools that facilitate knowledge and data sharing on the composition, performance, and dynamic behaviour of building stocks. The CCRP is run by the [Alan Turing Institute](https://www.turing.ac.uk/about-us),the UK's National Institute of Data Science and Artificial Intelligence whose purpose is to make great leaps in data science and artificial intelligence (AI) research to change the world for the better. 
+The Colouring Cities Research Programme (CCRP) designs and tests open-source tools that facilitate knowledge and data sharing on the composition, performance, and dynamic behaviour of national building stocks. The CCRP is run by the [Alan Turing Institute](https://www.turing.ac.uk/about-us),the UK's National Institute of Data Science and Artificial Intelligence whose purpose is to make great leaps in data science and artificial intelligence (AI) research to change the world for the better. 
 
 [Alan Turing](https://www.turing.ac.uk/blog/what-alan-turing-means-us) argued that "_the isolated individual does not develop any intellectual power  …The search for new techniques must be regarded as carried out by the human community as a whole, rather than by individuals_".  The CCRP programme brings together sectors, communities and countries, working in science and technology, the humanities and the arts, to help solve complex urban problems through the co-development of visual open data platfoms on building stocks.
 
