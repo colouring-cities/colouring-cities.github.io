@@ -66,11 +66,11 @@ All CCRP platforms are at different stages of development.  Information on curre
 * CCRP Information page [link](https://github.com/colouring-cities/manual/wiki/M5.-COLOURING-GERMANY)
 
 ### [Colouring Greece](https://athens.colouringcities.org/)
-* Academic lead*: National Technical University of Athens, Urban Planning Research Lab, School of Architecture & Geochoros Geospatial Analysis and GIS Research Group, School of Rural, Surveying and Geoinformatics Engineering
+* Academic lead: National Technical University of Athens, Urban Planning Research Lab, School of Architecture & Geochoros Geospatial Analysis and GIS Research Group, School of Rural, Surveying and Geoinformatics Engineering
 * CCRP information page [link](https://github.com/colouring-cities/manual/wiki/M6.-COLOURING-GREECE) 
 
 ### [Colouring Indonesia](https://indonesia.colouringcities.org/) 
-* Academic leads: King's College London UK, Department of Geography with the Institut Teknologi Bandung, Indonesia, Departments of Geodesy and Geomatic Engineering & of Urban and Regional Planning
+* Academic lead: King's College London UK, Department of Geography with the Institut Teknologi Bandung, Indonesia, Departments of Geodesy and Geomatic Engineering & of Urban and Regional Planning
 * CCRP information page [link](https://github.com/colouring-cities/manual/wiki/M8.-COLOURING-INDONESIA)
 
 ### Colouring Lebanon
@@ -78,7 +78,7 @@ All CCRP platforms are at different stages of development.  Information on curre
 * CCRP information page [link](https://github.com/colouring-cities/manual/wiki/M7.-COLOURING-LEBANON)
 
 ### Colouring Sweden
-* Academic leads Mälardalen University, Västerås, Department of Sustainable Environment and Construction, School of Business Society and Engineering, 
+* Academic lead: Mälardalen University, Västerås, Department of Sustainable Environment and Construction, School of Business Society and Engineering, 
 * CCRP information page [link](https://github.com/colouring-cities/manual/wiki/M7.-COLOURING-SWEDEN)
 
 ***
