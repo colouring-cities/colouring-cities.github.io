@@ -43,24 +43,23 @@ All CCRP platforms are at different stages of development. Information on curren
 
 ### [Colouring Australia](https://www.ahdap.org/) 
 * Academic lead: The Cities Future Research Centre. University of New South Wales in collaboration with the Universities of Adelaide, Brisbane, Canberra, Curtin, Melbourne, Swinburne, Queesnsland and S.Australia
-* CCRP Information page:[Colouring Australia page link](https://github.com/colouring-cities/manual/wiki/M1.-COLOURING-AUSTRALIA)
+* CCRP Information page [link](https://github.com/colouring-cities/manual/wiki/M1.-COLOURING-AUSTRALIA)
 
 ### Colouring Bahrain
 * Academic lead**: Urban and Housing Lab. University of Bahrain
-* CCRP Information page:[Colouring Bahrain page link](https://github.com/colouring-cities/manual/wiki/M2.-COLOURING-BAHRAIN)
+* CCRP Information page [link](https://github.com/colouring-cities/manual/wiki/M2.-COLOURING-BAHRAIN)
 
 ### [Colouring Britain/Colouring London prototype](https://colouringlondon.org/) 
 * Academic lead: [The Alan Turing Institute. Urban Analytics Programme](https://www.turing.ac.uk/)
-* CCRP Information page: [Colouring Britain page link](https://github.com/colouring-cities/manual/wiki/M3.-COLOURING-BRITAIN)
+* CCRP Information page [link](https://github.com/colouring-cities/manual/wiki/M3.-COLOURING-BRITAIN)
 
 ### Colouring Colombia
 * Academic lead: The District University of Bogotá -Universidad Distrital - Francisco Jose de CaldasThe Department of Cadastral and Geodesy Engineering and the NIDE research group (Núcleo de Investigación en Datos Espaciales. 
-* CCRP Information page: [Colouring Colombia page link](https://github.com/colouring-cities/manual/wiki/M4.-COLOURING-COLOMBIA)
+* CCRP Information page [link](https://github.com/colouring-cities/manual/wiki/M4.-COLOURING-COLOMBIA)
 
 ### [Colouring Germany](https://colouring.dresden.ioer.de/)
 * Academic lead: Leibniz Institute of Ecological Urban and Regional Development, Dresden, Research Area Spatial Information and Modelling. 
-* CCRP information page*
-* [Colouring Germany page link](https://github.com/colouring-cities/manual/wiki/M5.-COLOURING-GERMANY)
+* CCRP Information page [link](https://github.com/colouring-cities/manual/wiki/M5.-COLOURING-GERMANY)
 
 ### [Colouring Greece](https://athens.colouringcities.org/)
 * Academic lead*: National Technical University of Athens, Urban Planning Research Lab, School of Architecture & Geochoros Geospatial Analysis and GIS Research Group, School of Rural, Surveying and Geoinformatics Engineering
@@ -68,7 +67,7 @@ All CCRP platforms are at different stages of development. Information on curren
 
 ### [Colouring Indonesia](https://indonesia.colouringcities.org/) 
 * Academic leads: King's College London UK, Department of Geography with the Institut Teknologi Bandung, Indonesia, Departments of Geodesy and Geomatic Engineering & of Urban and Regional Planning
-* CCRP information page (link)[Colouring Indonesia page link](https://github.com/colouring-cities/manual/wiki/M8.-COLOURING-INDONESIA)
+* CCRP information page (link)(https://github.com/colouring-cities/manual/wiki/M8.-COLOURING-INDONESIA)
 
 ### Colouring Lebanon
 * Academic lead: The American University of Beirut, Urban Lab
