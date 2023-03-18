@@ -15,7 +15,7 @@ The Colouring Cities Research Programme (CCRP) designs and tests open-source too
 
 [Alan Turing](https://www.turing.ac.uk/blog/what-alan-turing-means-us) argued that "_the isolated individual does not develop any intellectual power  …The search for new techniques must be regarded as carried out by the human community as a whole, rather than by individuals_".  The CCRP programme brings together knowledge from across countries, held within communities, academia, industry, government and the third sector, and within science and technology, the humanities and the arts, to help solve complex urban problems. It does this by facilitating the co-creation of open data platfoms that map data, at building level, on the composition, performance, and dynamic behaviour of building stocks.
 
-<img width="1440" alt="Screenshot 2023-03-18 at 09 13 48" src="https://user-images.githubusercontent.com/42236514/226096610-653e416e-566c-4acb-a3de-41d20162c8c6.png">
+<img width="1440" alt="Scree<img width="1437" alt="Screenshot 2023-03-18 at 09 15 02" src="https://user-images.githubusercontent.com/42236514/226096733-4b68408c-7ea6-46e9-9398-5445a7158302.png">
 
 Colouring Cities platforms are designed to:
 * effect a step change in the range, scale, quality and accessibility of spatial building attribute data, at building level, for use in socio-economic and environmental research, and in sustainable building practice;
