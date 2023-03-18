@@ -100,7 +100,7 @@ CCRP research partners can be identified by their exclusive use of the Colouring
 ## **CCRP Open Manual link**
 
 
-- For more information on different aspects of the Colouring Cities programme please also see Open Manual links below (https://github.com/colouring-cities/manual/wiki)
+- For more information on different aspects of the Colouring Cities programme please also see our [CCRP Open Manual](https://github.com/colouring-cities/manual/wiki) which is currently under construction.
 
 - [About](https://github.com/colouring-cities/manual/wiki/A.-What-is-the-CCRP%3F)
 - [CCRP internationl academic partners](https://github.com/colouring-cities/manual/wiki/B.-CCRP-INTERNATIONAL-RESEARCH-PARTNERS-;-links,-resources,-protocols-&-meeting-dates)
@@ -113,4 +113,4 @@ CCRP research partners can be identified by their exclusive use of the Colouring
 - [Publications and events](https://github.com/colouring-cities/manual/wiki/E:-CCRP--PUBLICATIONS-&-ARTICLES)
 
 
-If you are an academic insitution involved in research into stock sustainability and resilience in a country not represented above, and would like to discuss joining the Colouring Cities Research Programme, please contact Polly Hudson at phudson@turing.ac.uk. If you would like to discuss collaboration  with an existing Colouring Cities partner please contact the Principal Investigator details for which can be found on individual country's CCRP information page links provided above.
+If you are an academic insitution involved in research into stock sustainability and resilience in a country not represented above, and would like to discuss joining the Colouring Cities Research Programme, please contact Polly Hudson at The Alan Turing Institute at phudson@turing.ac.uk. If you would like to discuss collaboration with an existing Colouring Cities partner please contact the Principal Investigator, details for which may be found on individual countries' information pages as provided above.
