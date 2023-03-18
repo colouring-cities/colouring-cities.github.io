@@ -4,6 +4,7 @@
 
 layout: default
 ---
+<img width="183" alt="Screenshot 2023-03-18 at 07 34 54" src="https://user-images.githubusercontent.com/42236514/226092002-7d56d358-481b-4f25-b305-76f8ba8efbbc.png">
 
 ![CCRP Global Map](assets/images/ccmap.png)
 
