@@ -16,7 +16,7 @@ The Colouring Cities Research Programme (CCRP) designs and tests open-source too
 
 The CCRP looks to harness as much information on buildings as possible from professionals involved in their design, construction, management, monitoring, conservation, and retrofitting, from citizens and civic societies, and from diverse academic disciplines and research programmes. It also brings together international academic institutions, undertaking research into building stock sustainability and resilience, to co-work on platform design.  Disciplines represented by CCRP academic partners include: data science, computer science and software engineering, urban science, industrial ecology, urban morphology, physics, environmental science, material science, climate change & resilience studies, building construction, engineering, conservation, housing, planning, architecture, history, architectural history, graphic design and colour theory, open data systems and principles, data ethics, artificial intelligence (including machine learning & computer vision), procedural modelling, the mathematics of cities, GIS and spatial data visualisation.
 
-<img width="1343" alt="Screenshot 2023-02-14 at 09 01 39" src="https://user-images.githubusercontent.com/42236514/226090137-328d7acf-a857-4177-9817-f50795eb34f8.png">
+![col](https://user-images.githubusercontent.com/42236514/164200092-d1f4d61d-f62c-4e2b-ac41-6f07c6d51e28.JPG)
 
 Colouring Cities platforms are specifically designed:
 * to effect a step change in the range, scale, quality and accessibility of spatial building attribute data, at building level, for use in socio-economic and environmental research, and in sustainable building practice;
@@ -44,13 +44,8 @@ All CCRP platforms are at different stages of development. Current academic CCRP
 
 ### [COLOURING AUSTRALIA](https://www.ahdap.org/) 
 **Academic lead**: [The Cities Future Research Centre. University of New South Wales](https://cityfutures.ada.unsw.edu.au) in collaboration with the Universities of Adelaide, Brisbane, Canberra, Curtin, Melbourne, Swinburne, Queesnsland and S.Australia
-**Demonstration platform link**;
-* [Colouring Sydney](https://sydney.colouringaustralia.org/)
-* [Colouring Australia and the Australian Housing Data Analytics Platform integration](https://www.ahdap.org/)
-**Information page**:
-* [Colouring Australia page link](https://github.com/colouring-cities/manual/wiki/M1.-COLOURING-AUSTRALIA)
-
-***
+* Platform link: [Colouring Australia and the Australian Housing Data Analytics Platform integration](https://www.ahdap.org/)
+** Information page**:[Colouring Australia page link](https://github.com/colouring-cities/manual/wiki/M1.-COLOURING-AUSTRALIA)
 
 ### COLOURING BAHRAIN
 **Academic lead** 
