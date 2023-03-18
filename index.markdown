@@ -11,11 +11,9 @@ layout: default
 
 ## Overview
 
-The Colouring Cities Research Programme (CCRP) designs and tests open-source tools that facilitate knowledge and data sharing on the composition, performance, and dynamic behaviour of national building stocks. The CCRP is run by the [Alan Turing Institute](https://www.turing.ac.uk/about-us), the UK's National Institute of Data Science and Artificial Intelligence, whose purpose is to make great leaps in data science and artificial intelligence (AI) research to change the world for the better. 
+The Colouring Cities Research Programme (CCRP) designs and tests open-source tools that facilitate knowledge and data sharing on the composition, performance, and dynamic behaviour of national building stocks. The CCRP is run by the [Alan Turing Institute](https://www.turing.ac.uk/about-us), the UK's National Institute of Data Science and Artificial Intelligence. The Turing's purpose is to make great leaps in data science and artificial intelligence (AI) research to change the world for the better. 
 
-[Alan Turing](https://www.turing.ac.uk/blog/what-alan-turing-means-us) argued that "_the isolated individual does not develop any intellectual power  …The search for new techniques must be regarded as carried out by the human community as a whole, rather than by individuals_".  The CCRP programme brings together sectors, communities and countries, working in science and technology, the humanities and the arts, to help solve complex urban problems through the co-development of visual open data platfoms on building stocks.
-
-The CCRP looks to harness as much information on buildings as possible from professionals involved in their design, construction, management, monitoring, conservation, and retrofitting, from citizens and civic societies, and from diverse academic disciplines and research programmes. It also brings together international academic institutions, undertaking research into building stock sustainability and resilience, to co-work on platform design.  Disciplines represented by CCRP academic partners include: data science, computer science and software engineering, urban science, industrial ecology, urban morphology, physics, environmental science, material science, climate change & resilience studies, building construction, engineering, conservation, housing, planning, architecture, history, architectural history, graphic design and colour theory, open data systems and principles, data ethics, artificial intelligence (including machine learning & computer vision), procedural modelling, the mathematics of cities, GIS and spatial data visualisation.
+[Alan Turing](https://www.turing.ac.uk/blog/what-alan-turing-means-us) argued that "_the isolated individual does not develop any intellectual power  …The search for new techniques must be regarded as carried out by the human community as a whole, rather than by individuals_".  The CCRP programme brings together sectors, communities and countries, and science and technology, the humanities and the arts, to help solve complex urban problems through the co-development of visual open data platfoms.
 
 ![col](https://user-images.githubusercontent.com/42236514/164200092-d1f4d61d-f62c-4e2b-ac41-6f07c6d51e28.JPG)
 
@@ -24,20 +22,21 @@ Colouring Cities platforms are designed to:
 * increase access to data necessary to improve stock quality, sustainability, efficiency and resilience in line with the [United Nations' [Sustainable Development Goals](https://sdgs.un.org/goals) and [New Urban Agenda](https://habitat3.org/the-new-urban-agenda/);
 * increase access to data at global scale to exploit the potential of AI to gain rapid insights into the stock as a complex dynamic system;
 * test an academic governance model for a network of low-cost, interoperable, but independently managed, open data platfoms whose standardised, building level datasets allow for comparative analysis of stocks across countries;
-* test diverse methods of data capture, and feedback loops, to engage diverse stakeholders -whethe from industry, academia, government, the third sector, or citizens- to maximise the data richness, accuracy, granularity, range and geographic cover; 
+* test diverse methods of data capture, and feedback loops, to engage diverse stakeholders including from industry, academia, government, the third sector, and citizens themselves- to maximise the data richness, accuracy, granularity, range and geographic cover; 
 * advance ethical, reproducible, and collaborative data science, as set out in [The Turing Way](https://the-turing-way.netlify.app/welcome.htmlsupport.
 
-The CCRP is a branded research programme that enables international academic institutions involved in building stock research, and research software engineering, to pool knowledge, and co-develop and test open-source code for Colouring Cities platforms. Each CCRP platform is managed and funded independently by academic partners at country level, and follows an agreed set of [CCRP protocols](https://github.com/colouring-cities/manual/wiki/B.-International-research-partners;-links,-resources,-protocols-&-meeting-dates) drafted by the Alan Turing Institute. Stakeholder networks are developed within countries to maximise efficiency of data upload, updating and verification using a collaborative maintenance model - as pioneered by the open data movement. The CCRP releases its core code, and additional country specific code, under a GNU General Public License via GitHub. Its building attribute datasets are accessible via its international platform network under an Open Data Commons Open Database License. It's Open Manual is released under an MIT License.
+The CCRP is a branded research programme that enables international academic institutions involved in building stock research, and research software engineering, to pool knowledge, and co-develop and test open-source code for Colouring Cities platforms. Over 45 academics currently work on the project across nine countries. Each CCRP platform is managed and funded independently by academic partners at country level, and follows an agreed set of [CCRP protocols](https://github.com/colouring-cities/manual/wiki/B.-International-research-partners;-links,-resources,-protocols-&-meeting-dates) drafted by the Alan Turing Institute. Stakeholder networks are developed within countries to maximise efficiency of data upload, updating and verification using a collaborative maintenance model - as pioneered by the open data movement. The CCRP releases its core code, and additional country specific code, under a GNU General Public License via GitHub. Its building attribute datasets are accessible via its international platform network under an Open Data Commons Open Database License. It's Open Manual is released under an MIT License.
 
 <img width="877" alt="Screenshot 2023-03-18 at 06 36 26" src="https://user-images.githubusercontent.com/42236514/226090167-480f2197-5061-40c9-8f26-86af1412aaf4.png">
 
-Colouring Cities platforms collect, collate, visualise, verify, enrich and release over 120 categories of spatial building attribute data. These are grouped into 12 subject areas, as shown below. Selection of subcategories is based on analysis of academic papers relating to sustainability science, urban science, resilience analysis and urban complexity, UK stakeholder consultation on the Colouring London prototype (2015-19), international partner consultation and live platform testing. New subcategories are added in consultation with CCRP academic partners. Four data capture methods are experimented with: bulk upload of open public datasets, live streaming from public sources, computational generation using inference and crowdsourcing at building level. Through this process issues such as data fragmentation, incompleteness, inaccessibility, aggregation,inconsistency, security and privacy are explored and addressed. Data accuracy is maximised through feedback loops between data capture methods, and verification tools.  
+Colouring Cities platforms use building footprints, of the highest quality, openness and geographic coverage available within each country, as their basic building block. As well as providing information on the shape and size of buildings, footprints act as mini filing cabinets, allowing information to be easily captured, collated, verified and visualised. Live co-creation of maps through the colouring-in of footprints forms a key feature of platform design. 
+
+Each platform is designed to collect, collate, visualise, verify, enrich and release over 120 standardised categories of spatial building attribute data. Categories are visually grouped within 12 subject areas, as shown below to maximise ease of access and inclusivity. Selection of subcategories is based on analysis of academic papers relating to sustainability science, urban science, resilience analysis and urban complexity, UK stakeholder consultation on the Colouring London prototype (2015-19), international partner consultation and live platform testing. New subcategories are added in consultation with CCRP academic partners. Four data capture methods are experimented with: bulk upload of open public datasets, live streaming from public sources, computational generation using inference and crowdsourcing from citizens and experts at building level. Through this process issues such as data fragmentation, incompleteness, inaccessibility, aggregation,inconsistency, security and privacy are explored and addressed. Data accuracy is maximised through feedback loops between data capture methods, and verification tools.  
 
 <img width="465" alt="Screenshot 2023-02-16 at 12 46 24" src="https://user-images.githubusercontent.com/42236514/219368623-5129b306-f6f3-4d39-be9b-b86170ce6f14.png">
 
-Colouring Cities platforms use building footprints, of the highest quality, openness and geographic coverage available within each country, as their basic building block. As well as providing information on the shape and size of buildings, footprints act as mini filing cabinets, allowing information to be easily captured, collated, verified and visualised. Live co-creation of maps through the colouring-in of footprints forms a key feature of platform design. 
+The CCRP looks to harness as much information on buildings as possible from professionals involved in their design, construction, management, monitoring, conservation, and retrofitting, from citizens and civic societies, and from diverse academic disciplines and research programmes. It also brings together international academic institutions, undertaking research into building stock sustainability and resilience, to co-work on platform design.  Disciplines represented by CCRP academic partners include: data science, computer science and software engineering, urban science, industrial ecology, urban morphology, physics, environmental science, material science, climate change & resilience studies, building construction, engineering, conservation, housing, planning, architecture, history, architectural history, graphic design and colour theory, open data systems and principles, data ethics, artificial intelligence (including machine learning & computer vision), procedural modelling, the mathematics of cities, GIS and spatial data visualisation.
 
- 
 ## CCRP research partners/platform hosts
 
 All CCRP platforms are at different stages of development. Current academic CCRP partner details and live platform links (where available) are provided below:  
@@ -59,20 +58,12 @@ All CCRP platforms are at different stages of development. Current academic CCRP
 * CCRP Information page: [Colouring Colombia page link](https://github.com/colouring-cities/manual/wiki/M4.-COLOURING-COLOMBIA)
 
 ### [Colouring Germany](https://colouring.dresden.ioer.de/)
-* Academic lead: [Leibniz Institute of Ecological Urban and Regional Development, Dresden, Research Area Spatial Information and Modelling. 
-* Live demonstration platform: (https://colouring.dresden.ioer.de/)
-**Demonstration platform links**
-* [Colouring Dresden Maps](https://colouring.dresden.ioer.de/)
-* [Colouring Dresden Information](https://colouring.dresden.ioer.info/)
-* [Colouring Dresden Newsletter](https://seu2.cleverreach.com/f/203678-351100/) 
-* [Colouring Dresden Twitter](https://twitter.com/colouringdd) 
-* [Colouring Dresden Instagram](https://www.instagram.com/colouringdd/) 
-
-**CCRP information page**
+* Academic lead: Leibniz Institute of Ecological Urban and Regional Development, Dresden, Research Area Spatial Information and Modelling. 
+* CCRP information page*
 * [Colouring Germany page link](https://github.com/colouring-cities/manual/wiki/M5.-COLOURING-GERMANY)
 
 ### [Colouring Greece](https://athens.colouringcities.org/)
-* Academic lead*: [National Technical University of Athens, Urban Planning Research Lab, School of Architecture & Geochoros Geospatial Analysis and GIS Research Group, School of Rural, Surveying and Geoinformatics Engineering
+* Academic lead*: National Technical University of Athens, Urban Planning Research Lab, School of Architecture & Geochoros Geospatial Analysis and GIS Research Group, School of Rural, Surveying and Geoinformatics Engineering
 * CCRP information page [link](https://github.com/colouring-cities/manual/wiki/M6.-COLOURING-GREECE) 
 
 ### [Colouring Indonesia](https://indonesia.colouringcities.org/) 
@@ -80,7 +71,6 @@ All CCRP platforms are at different stages of development. Current academic CCRP
 * CCRP information page (link)[Colouring Indonesia page link](https://github.com/colouring-cities/manual/wiki/M8.-COLOURING-INDONESIA)
 
 ### Colouring Lebanon
-![lebanon](https://user-images.githubusercontent.com/42236514/184538503-f9cb163d-3626-48f4-a563-59b7f5436654.JPG)
 * Academic lead: The American University of Beirut, Urban Lab
 * CCRP information page [link](https://github.com/colouring-cities/manual/wiki/M7.-COLOURING-LEBANON)
 
