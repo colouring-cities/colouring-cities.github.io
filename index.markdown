@@ -75,7 +75,7 @@ All CCRP platforms are at different stages of development.  Information on curre
 
 ### Colouring Lebanon
 * Academic lead: The American University of Beirut, Urban Lab
-* CCRP information page [link][(https://github.com/colouring-cities/manual/wiki/M7.-COLOURING-LEBANON)](https://github.com/colouring-cities/manual/wiki/M9.-COLOURING-LEBANON)
+* CCRP information page [link](https://github.com/colouring-cities/manual/wiki/M7.-COLOURING-LEBANON)](https://github.com/colouring-cities/manual/wiki/M9.-COLOURING-LEBANON)
 
 ### Colouring Sweden
 * Academic lead: Mälardalen University, Västerås, Department of Sustainable Environment and Construction, School of Business Society and Engineering, 
