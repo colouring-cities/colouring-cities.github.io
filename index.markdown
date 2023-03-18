@@ -50,7 +50,7 @@ All CCRP platforms are at different stages of development. Information on curren
 * CCRP Information page [link](https://github.com/colouring-cities/manual/wiki/M2.-COLOURING-BAHRAIN)
 
 ### [Colouring Britain/Colouring London prototype](https://colouringlondon.org/) 
-* Academic lead: [The Alan Turing Institute. Urban Analytics Programme](https://www.turing.ac.uk/)
+* Academic lead: The Alan Turing Institute, Urban Analytics Programme
 * CCRP Information page [link](https://github.com/colouring-cities/manual/wiki/M3.-COLOURING-BRITAIN)
 
 ### Colouring Colombia
@@ -67,7 +67,7 @@ All CCRP platforms are at different stages of development. Information on curren
 
 ### [Colouring Indonesia](https://indonesia.colouringcities.org/) 
 * Academic leads: King's College London UK, Department of Geography with the Institut Teknologi Bandung, Indonesia, Departments of Geodesy and Geomatic Engineering & of Urban and Regional Planning
-* CCRP information page (link)(https://github.com/colouring-cities/manual/wiki/M8.-COLOURING-INDONESIA)
+* CCRP information page [link](https://github.com/colouring-cities/manual/wiki/M8.-COLOURING-INDONESIA)
 
 ### Colouring Lebanon
 * Academic lead: The American University of Beirut, Urban Lab
