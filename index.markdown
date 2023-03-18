@@ -16,6 +16,7 @@ The Colouring Cities Research Programme (CCRP) designs and tests open-source too
 
 The CCRP looks to harness as much information on buildings as possible from professionals involved in their design, construction, management, monitoring, conservation, and retrofitting, from citizens and civic societies, and from diverse academic disciplines and research programmes. It also brings together international academic institutions, undertaking research into building stock sustainability and resilience, to co-work on platform design.  Disciplines represented by CCRP academic partners include: data science, computer science and software engineering, urban science, industrial ecology, urban morphology, physics, environmental science, material science, climate change & resilience studies, building construction, engineering, conservation, housing, planning, architecture, history, architectural history, graphic design and colour theory, open data systems and principles, data ethics, artificial intelligence (including machine learning & computer vision), procedural modelling, the mathematics of cities, GIS and spatial data visualisation.
 
+
 Colouring Cities platforms are specifically designed:
 * to effect a step change in the range, scale, quality and accessibility of spatial building attribute data, at building level, for use in socio-economic and environmental research, and in sustainable building practice;
 * to increase access to data necessary to improve stock quality, sustainability, efficiency and resilience in line with the [United Nations' [Sustainable Development Goals](https://sdgs.un.org/goals) and [New Urban Agenda](https://habitat3.org/the-new-urban-agenda/);
@@ -25,6 +26,8 @@ Colouring Cities platforms are specifically designed:
 * to advance ethical, reproducible, and collaborative data science, as set out in [The Turing Way](https://the-turing-way.netlify.app/welcome.htmlsupport.
 
 The CCRP is a branded research programme that enables international academic institutions involved in building stock research, and research software engineering, to pool knowledge, and co-develop and test open-source code for Colouring Cities platforms. Each CCRP platform is managed and funded independently by academic partners at country level, and follows an agreed set of [CCRP protocols](https://github.com/colouring-cities/manual/wiki/B.-International-research-partners;-links,-resources,-protocols-&-meeting-dates) drafted by the Alan Turing Institute. Stakeholder networks are developed within countries to maximise efficiency of data upload, updating and verification using a collaborative maintenance model - as pioneered by the open data movement. The CCRP releases its core code, and additional country specific code, under a GNU General Public License via GitHub. Its building attribute datasets are accessible via its international platform network under an Open Data Commons Open Database License. It's Open Manual is released under an MIT License.
+
+[website images.pptx](https://github.com/colouring-cities/colouring-cities.github.io/files/11007679/website.images.pptx)
 
 Colouring Cities platforms collect, collate, visualise, verify, enrich and release over 120 categories of spatial building attribute data. These are grouped into 12 subject areas, as shown below. Selection of subcategories is based on analysis of academic papers relating to sustainability science, urban science, resilience analysis and urban complexity, UK stakeholder consultation on the Colouring London prototype (2015-19), international partner consultation and live platform testing. New subcategories are added in consultation with CCRP academic partners. Four data capture methods are experimented with: bulk upload of open public datasets, live streaming from public sources, computational generation using inference and crowdsourcing at building level. Through this process issues such as data fragmentation, incompleteness, inaccessibility, aggregation,inconsistency, security and privacy are explored and addressed. Data accuracy is maximised through feedback loops between data capture methods, and verification tools.  
 
@@ -38,26 +41,12 @@ Colouring Cities platforms use building footprints, of the highest quality, open
 All CCRP platforms are at different stages of development. Current academic CCRP partner details and live platform links (where available) are provided below:  
 
 
-### COLOURING AUSTRALIA 
-<img width="1346" alt="Screenshot 2023-03-05 at 07 41 45" src="https://user-images.githubusercontent.com/42236514/222959946-154d46cc-7db6-40be-a85f-0958829954ea.png">
-
-**Academic lead** 
-* [The Cities Future Research Centre. University of New South Wales](https://cityfutures.ada.unsw.edu.au)
-
-**Demonstration platform link**
+### [COLOURING AUSTRALIA](https://www.ahdap.org/) 
+**Academic lead**: [The Cities Future Research Centre. University of New South Wales](https://cityfutures.ada.unsw.edu.au) in collaboration with the Universities of Adelaide, Brisbane, Canberra, Curtin, Melbourne, Swinburne, Queesnsland and S.Australia
+**Demonstration platform link**;
 * [Colouring Sydney](https://sydney.colouringaustralia.org/)
-
-**National academic partners & additional live platform links**
-* [Colouring Perth](https://perth.colouringaustralia.org/) - Curtin University 
-* [Colouring Adelaide](https://adelaide.colouringaustralia.org/) - University of Adelaide
-* [Colouring Brisbane](https://brisbane.colouringaustralia.org/) - University of Queensland
-* Colouring Canberra - University of Canberra
-* Colouring Hobart - University of South Australia 
-* [Colouring Melbourne](https://melbourne.colouringaustralia.org/) - University of Melbourne
-* Swinburne University 
 * [Colouring Australia and the Australian Housing Data Analytics Platform integration](https://www.ahdap.org/)
-
-**CCRP information**
+**Information page**:
 * [Colouring Australia page link](https://github.com/colouring-cities/manual/wiki/M1.-COLOURING-AUSTRALIA)
 
 ***
