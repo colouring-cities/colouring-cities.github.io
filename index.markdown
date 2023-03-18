@@ -50,7 +50,7 @@ All CCRP platforms are at different stages of development.  Information on curre
 * CCRP Information page [link](https://github.com/colouring-cities/manual/wiki/M1.-COLOURING-AUSTRALIA)
 
 ### Colouring Bahrain
-* Academic lead**: Urban and Housing Lab. University of Bahrain
+* Academic lead: Urban and Housing Lab. University of Bahrain
 * CCRP Information page [link](https://github.com/colouring-cities/manual/wiki/M2.-COLOURING-BAHRAIN)
 
 ### [Colouring Britain/Colouring London prototype](https://colouringlondon.org/) 
@@ -75,7 +75,7 @@ All CCRP platforms are at different stages of development.  Information on curre
 
 ### Colouring Lebanon
 * Academic lead: The American University of Beirut, Urban Lab
-* CCRP information page [link](https://github.com/colouring-cities/manual/wiki/M7.-COLOURING-LEBANON)
+* CCRP information page [link][(https://github.com/colouring-cities/manual/wiki/M7.-COLOURING-LEBANON)](https://github.com/colouring-cities/manual/wiki/M9.-COLOURING-LEBANON)
 
 ### Colouring Sweden
 * Academic lead: Mälardalen University, Västerås, Department of Sustainable Environment and Construction, School of Business Society and Engineering, 
