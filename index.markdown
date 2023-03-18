@@ -84,7 +84,7 @@ All CCRP platforms are at different stages of development.  Information on curre
 ***
 
 ## **Academic networks and hubs**
-As the number of countries involved in the CCRP expands, Global Region Hubs will be set-up to bring together and support discussion between academic institutions testing Colouring Cities platforms, and to help to encourage and track use of CCRP data in socio-economic and environmental research. Three hubs, operating within similar time zones, are proposed:
+As the number of countries involved in the CCRP expands, self-managing Global Region Hubs will be set-up and co-ordinated by interested academic partners/academic consortia in order to maximise help-in-kind support for participarting instiutions at global region level, and to help to encourage and track use of CCRP data in diverse areas of socio-economic and environmental research. Three hubs, operating within similar time zones, are proposed:
 * North, Central & South America
 * Europe & the Middle East
 * Asia & Australasia
@@ -95,8 +95,7 @@ As the number of countries involved in the CCRP expands, Global Region Hubs will
 ***
 ## **CCRP Open Manual link**
 
-
-- For more information on different aspects of the Colouring Cities programme please also see our [CCRP Open Manual](https://github.com/colouring-cities/manual/wiki) which is currently under construction.
+- For more information on different aspects of the Colouring Cities programme please also see our [CCRP Open Manual](https://github.com/colouring-cities/manual/wiki).
 
 - [About](https://github.com/colouring-cities/manual/wiki/A.-What-is-the-CCRP%3F)
 - [CCRP internationl academic partners](https://github.com/colouring-cities/manual/wiki/B.-CCRP-INTERNATIONAL-RESEARCH-PARTNERS-;-links,-resources,-protocols-&-meeting-dates)
