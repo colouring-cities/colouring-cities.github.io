@@ -51,16 +51,15 @@ All CCRP platforms are at different stages of development. Current academic CCRP
 
 ### [Colouring Britain/Colouring London prototype](https://colouringlondon.org/) 
 * Academic lead: [The Alan Turing Institute. Urban Analytics Programme](https://www.turing.ac.uk/)
-* Live demonstration platform /CCRP prototype link: Colouring London, CCRP prototype platform](https://colouringlondon.org/)
 * CCRP Information page: [Colouring Britain page link](https://github.com/colouring-cities/manual/wiki/M3.-COLOURING-BRITAIN)
 
 ### Colouring Colombia
 * Academic lead: The District University of Bogotá -Universidad Distrital - Francisco Jose de CaldasThe Department of Cadastral and Geodesy Engineering and the NIDE research group (Núcleo de Investigación en Datos Espaciales. 
 * CCRP Information page: [Colouring Colombia page link](https://github.com/colouring-cities/manual/wiki/M4.-COLOURING-COLOMBIA)
 
-### Colouring Germany
-* Academic lead: [Leibniz Institute of Ecological Urban and Regional Development, Dresden, Research Area Spatial Information and Modelling. ](https://www.ioer.de/en/)
-* Live demonstration platform
+### [Colouring Germany](https://colouring.dresden.ioer.de/)
+* Academic lead: [Leibniz Institute of Ecological Urban and Regional Development, Dresden, Research Area Spatial Information and Modelling. 
+* Live demonstration platform: (https://colouring.dresden.ioer.de/)
 **Demonstration platform links**
 * [Colouring Dresden Maps](https://colouring.dresden.ioer.de/)
 * [Colouring Dresden Information](https://colouring.dresden.ioer.info/)
@@ -71,63 +70,22 @@ All CCRP platforms are at different stages of development. Current academic CCRP
 **CCRP information page**
 * [Colouring Germany page link](https://github.com/colouring-cities/manual/wiki/M5.-COLOURING-GERMANY)
 
-***
+### [Colouring Greece](https://athens.colouringcities.org/)
+* Academic lead*: [National Technical University of Athens, Urban Planning Research Lab, School of Architecture & Geochoros Geospatial Analysis and GIS Research Group, School of Rural, Surveying and Geoinformatics Engineering
+* CCRP information page [link](https://github.com/colouring-cities/manual/wiki/M6.-COLOURING-GREECE) 
 
-### COLOURING GREECE
+### [Colouring Indonesia](https://indonesia.colouringcities.org/) 
+* Academic leads: King's College London UK, Department of Geography with the Institut Teknologi Bandung, Indonesia, Departments of Geodesy and Geomatic Engineering & of Urban and Regional Planning
+* CCRP information page (link)[Colouring Indonesia page link](https://github.com/colouring-cities/manual/wiki/M8.-COLOURING-INDONESIA)
 
-![image](https://user-images.githubusercontent.com/42236514/169532709-7a753e69-d1be-4c40-8f6e-fafac7fabcba.png)
-
-**Academic lead**
-* [Urban Planning Research Lab, School of Architecture. National Technical University of Athens](http://www.arch.ntua.gr/) 
-* [Geochoros Geospatial Analysis and GIS Research Group, School of Rural, Surveying and Geoinformatics Engineering. National Technical University of Athens](https://www.survey.ntua.gr/en/)
-
-** Live demonstration platform*Demonstration platform link**
-* [Colouring Athens](https://athens.colouringcities.org/)
-
-**CCRP information page**
-* [Colouring Greece page link](https://github.com/colouring-cities/manual/wiki/M6.-COLOURING-GREECE) 
-
-***
-
-### COLOURING INDONESIA
-<img width="1384" alt="Screenshot 2023-03-05 at 13 10 43" src="https://user-images.githubusercontent.com/42236514/222962494-2bb07b6b-7b3e-480a-8d2e-9634a1c722f4.png">
-
-**Academic leads**
-* [Department of Geography, King's College London UK](https://www.kcl.ac.uk/geography/contact-us)
-* [Departments of Geodesy and Geomatic Engineering & of Urban and Regional Planning. Institut Teknologi Bandung, Indonesia](https://www.itb.ac.id/)
-* Live demonstration platform
-**Demonstration platform link**
-* [Colouring Indonesia](https://indonesia.colouringcities.org/)
-
-**CCRP information page**
-* [Colouring Indonesia page link](https://github.com/colouring-cities/manual/wiki/M8.-COLOURING-INDONESIA)
-
-***
-
-### COLOURING LEBANON
+### Colouring Lebanon
 ![lebanon](https://user-images.githubusercontent.com/42236514/184538503-f9cb163d-3626-48f4-a563-59b7f5436654.JPG)
+* Academic lead: The American University of Beirut, Urban Lab
+* CCRP information page [link](https://github.com/colouring-cities/manual/wiki/M7.-COLOURING-LEBANON)
 
-**Academic leads**
-* [The American University of Beirut. Urban Lab](https://www.aub.edu.lb/)
-* Live demonstration platform
-**Demonstration platform link**
-* Colouring Beirut relaunch April 2023
-
-**CCRP information page**
-* [Colouring Lebanon page link](https://github.com/colouring-cities/manual/wiki/M7.-COLOURING-LEBANON)
-
-***
-
-### COLOURING SWEDEN
-
-**Academic leads**
-* [Department of Sustainable Environment and Construction, School of Business Society and Engineering, Mälardalen University, Västerås](https://www.mdu.se/)
-* Live demonstration platform
-**Demonstration platform link**
-* Colouring Sweden planned launch April 2023
-
-**CCRP information page**
-* [Colouring Sweden page link](https://github.com/colouring-cities/manual/wiki/M7.-COLOURING-SWEDEN)
+### Colouring Sweden
+* Academic leads Mälardalen University, Västerås, Department of Sustainable Environment and Construction, School of Business Society and Engineering, 
+* CCRP information page [link](https://github.com/colouring-cities/manual/wiki/M7.-COLOURING-SWEDEN)
 
 ***
 
