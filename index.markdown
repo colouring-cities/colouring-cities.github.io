@@ -18,13 +18,13 @@ The CCRP looks to harness as much information on buildings as possible from prof
 
 ![col](https://user-images.githubusercontent.com/42236514/164200092-d1f4d61d-f62c-4e2b-ac41-6f07c6d51e28.JPG)
 
-Colouring Cities platforms are specifically designed:
-* to effect a step change in the range, scale, quality and accessibility of spatial building attribute data, at building level, for use in socio-economic and environmental research, and in sustainable building practice;
-* to increase access to data necessary to improve stock quality, sustainability, efficiency and resilience in line with the [United Nations' [Sustainable Development Goals](https://sdgs.un.org/goals) and [New Urban Agenda](https://habitat3.org/the-new-urban-agenda/);
-* to increase access to data at global scale to exploit the potential of AI to gain rapid insights into the stock as a complex dynamic system;
-* to test an academic governance model for a network of low-cost, interoperable, but independently managed, open data platfoms whose standardised, building level datasets allow for comparative analysis of stocks across countries;
-* to test diverse methods of data capture, and feedback loops, to engage diverse stakeholders -whethe from industry, academia, government, the third sector, or citizens- to maximise the data richness, accuracy, granularity, range and geographic cover; 
-* to advance ethical, reproducible, and collaborative data science, as set out in [The Turing Way](https://the-turing-way.netlify.app/welcome.htmlsupport.
+Colouring Cities platforms are designed to:
+* effect a step change in the range, scale, quality and accessibility of spatial building attribute data, at building level, for use in socio-economic and environmental research, and in sustainable building practice;
+* increase access to data necessary to improve stock quality, sustainability, efficiency and resilience in line with the [United Nations' [Sustainable Development Goals](https://sdgs.un.org/goals) and [New Urban Agenda](https://habitat3.org/the-new-urban-agenda/);
+* increase access to data at global scale to exploit the potential of AI to gain rapid insights into the stock as a complex dynamic system;
+* test an academic governance model for a network of low-cost, interoperable, but independently managed, open data platfoms whose standardised, building level datasets allow for comparative analysis of stocks across countries;
+* test diverse methods of data capture, and feedback loops, to engage diverse stakeholders -whethe from industry, academia, government, the third sector, or citizens- to maximise the data richness, accuracy, granularity, range and geographic cover; 
+* advance ethical, reproducible, and collaborative data science, as set out in [The Turing Way](https://the-turing-way.netlify.app/welcome.htmlsupport.
 
 The CCRP is a branded research programme that enables international academic institutions involved in building stock research, and research software engineering, to pool knowledge, and co-develop and test open-source code for Colouring Cities platforms. Each CCRP platform is managed and funded independently by academic partners at country level, and follows an agreed set of [CCRP protocols](https://github.com/colouring-cities/manual/wiki/B.-International-research-partners;-links,-resources,-protocols-&-meeting-dates) drafted by the Alan Turing Institute. Stakeholder networks are developed within countries to maximise efficiency of data upload, updating and verification using a collaborative maintenance model - as pioneered by the open data movement. The CCRP releases its core code, and additional country specific code, under a GNU General Public License via GitHub. Its building attribute datasets are accessible via its international platform network under an Open Data Commons Open Database License. It's Open Manual is released under an MIT License.
 
@@ -44,41 +44,18 @@ All CCRP platforms are at different stages of development. Current academic CCRP
 
 ### [COLOURING AUSTRALIA](https://www.ahdap.org/) 
 **Academic lead**: [The Cities Future Research Centre. University of New South Wales](https://cityfutures.ada.unsw.edu.au) in collaboration with the Universities of Adelaide, Brisbane, Canberra, Curtin, Melbourne, Swinburne, Queesnsland and S.Australia
-* Platform link: [Colouring Australia and the Australian Housing Data Analytics Platform integration](https://www.ahdap.org/)
+* Live platform link: [Colouring Australia and the Australian Housing Data Analytics Platform integration](https://www.ahdap.org/)
 ** Information page**:[Colouring Australia page link](https://github.com/colouring-cities/manual/wiki/M1.-COLOURING-AUSTRALIA)
 
 ### COLOURING BAHRAIN
-**Academic lead** 
-* [Urban and Housing Lab. University of Bahrain](https://uhl.center/)
-
-**Demonstration platform link**
-* Colouring Bahrain national platform currently under development. Live link due 2023 
-
-**CCRP information** 
-* [Colouring Bahrain page link](https://github.com/colouring-cities/manual/wiki/M2.-COLOURING-BAHRAIN)
-
-***
+**Academic lead**: [Urban and Housing Lab. University of Bahrain](https://uhl.center/)
+** Information page**:[Colouring Bahrain page link](https://github.com/colouring-cities/manual/wiki/M2.-COLOURING-BAHRAIN)
 
 ### COLOURING BRITAIN 
-![col](https://user-images.githubusercontent.com/42236514/164200092-d1f4d61d-f62c-4e2b-ac41-6f07c6d51e28.JPG)
-
 **Academic lead** 
 * [Urban Analytics Programme. The Alan Turing Institute](https://www.turing.ac.uk/)
-
-**Demonstration platform and CCRP prototype links**
-* [Colouring London, CCRP prototype platform](https://colouringlondon.org/)
-* Colouring Britain - to be activated Spring 2023
-
-**National academic partners & additional live platform links**
-* Colouring Loughborough (regional CCRP hub demonstration model) - University of Loughborough - activation due Spring 2023
-* University of Oxford (Research software engineering - strategic support)
-* Newcastle University (Research software Engineering)
-* University College London, Centre for Advanced Spatial Analysis (Colouring London prototype development host 2016-20)
-
-**CCRP information**
-* [Colouring Britain page link](https://github.com/colouring-cities/manual/wiki/M3.-COLOURING-BRITAIN)
-
-***
+* Live demonstration platform /CCRP prototype link**: Colouring London, CCRP prototype platform](https://colouringlondon.org/)
+** Information page**: [Colouring Britain page link](https://github.com/colouring-cities/manual/wiki/M3.-COLOURING-BRITAIN)
 
 ### COLOURING COLOMBIA
 
