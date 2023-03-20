@@ -53,7 +53,7 @@ All CCRP platforms are at different stages of development.  Information on curre
 * Academic lead: Urban and Housing Lab. University of Bahrain
 * CCRP Information page [link](https://github.com/colouring-cities/manual/wiki/M2.-COLOURING-BAHRAIN)
 
-### [Colouring Britain/Colouring London prototype](https://colouringlondon.org/) 
+### [Colouring Britain/Colouring London prototype](https://cl-staging.uksouth.cloudapp.azure.com/) 
 * Academic lead: The Alan Turing Institute, Urban Analytics Programme
 * CCRP Information page [link](https://github.com/colouring-cities/manual/wiki/M3.-COLOURING-BRITAIN)
 
