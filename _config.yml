@@ -19,6 +19,7 @@
 # in the templates via {{ site.myvariable }}.
 
 title: Colouring Cities Research Programme
+logo: assets/images/alan-turing-institute_logo_black_W500px.png
 email: your-email@example.com
 description: The Colouring Cities Research Programme (CCRP) develops and maintains an open, reproducible platform for collecting and visualising data on national building stocks 
 baseurl: "" # the subpath of your site, e.g. /blog
