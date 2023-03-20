@@ -23,7 +23,8 @@ logo: assets/images/alan-turing-institute_logo_black_W500px.png
 email: your-email@example.com
 description: |
 
-The Colouring Cities Research Programme (CCRP) develops and maintains an open, reproducible platform for collecting and visualising data on national building stocks 
+The Colouring Cities Research Programme (CCRP) develops and maintains an open, reproducible platform for collecting and visualising data on national building stocks
+| 
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 # twitter_username: jekyllrb
