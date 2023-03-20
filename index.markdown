@@ -17,6 +17,7 @@ The Colouring Cities Research Programme (CCRP) designs and tests open-source too
 {% include youtube.html id="uZHTb0ZWeSc" %}
 
 
+
 Colouring Cities platforms are designed to:
 * effect a step change in the range, scale, quality and accessibility of spatial building attribute data, at building level, for use in socio-economic and environmental research, and in sustainable building practice;
 * increase access to data necessary to improve stock quality, sustainability, efficiency and resilience in line with the [United Nations' [Sustainable Development Goals](https://sdgs.un.org/goals) and [New Urban Agenda](https://habitat3.org/the-new-urban-agenda/);
