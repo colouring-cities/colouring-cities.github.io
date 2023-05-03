@@ -108,7 +108,7 @@ Two models for country level academic networks, designed to provide trusted data
 - [Data Capture Methods](https://github.com/colouring-cities/manual/wiki/J.-DATA-CAPTURE-METHODS--choice-and-discussion)
 - [Technical description](https://github.com/colouring-cities/manual/wiki/D1.-TECHNICAL:-Overview-and-background)
 - [Publications and events](https://github.com/colouring-cities/manual/wiki/E:-CCRP--PUBLICATIONS-&-ARTICLES)
-- [Ethics](https://github.com/colouring-cities/manual/wiki/B.-Ethical-framework-and-ethics-policies). 
+- [Ethics](https://github.com/colouring-cities/manual/wiki/B.-Ethical-framework-and-ethics-policies) 
 
 
 If you are an academic institution involved in research into stock sustainability and resilience, and would like to discuss joining the Colouring Cities Research Programme, please contact Polly Hudson at The Alan Turing Institute at phudson@turing.ac.uk. If you would like to discuss collaboration with an existing Colouring Cities partner please contact the Principal Investigator, details for which may be found on individual countries' information pages in our **Open Manual**.
