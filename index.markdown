@@ -89,7 +89,8 @@ As the number of countries involved in the CCRP expands, self-managing Global Re
 * North, Central & South America
 * Europe & the Middle East
 * Asia & Australasia
-* Africa
+* Africa.
+
 We are particularly keen to hear from academic institutions in Africa and Central America that may be interested in testing CCRP code as we do not yet have partners within these regions.
 
 [Map source](https://upload.wikimedia.org/wikipedia/commons/8/88/World_Time_Zones_Map.png)
