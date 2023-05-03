@@ -85,10 +85,12 @@ All CCRP platforms are at different stages of development.  Information on curre
 ***
 
 ## **Academic networks and hubs**
-As the number of countries involved in the CCRP expands, self-managing Global Region Hubs will be set-up and co-ordinated by interested academic partners/academic consortia in order to maximise help-in-kind support for participating institutions at global region level, and to help to encourage and track use of CCRP data in diverse areas of socio-economic and environmental research. Three hubs, operating within similar time zones, are proposed:
+As the number of countries involved in the CCRP expands, self-managing Global Region Hubs will be set-up and co-ordinated by interested academic partners/academic consortia in order to maximise help-in-kind support for participating institutions at global region level, and to help to encourage and track use of CCRP data in diverse areas of socio-economic and environmental research. Regional hubs are currently being discussed for:
 * North, Central & South America
 * Europe & the Middle East
 * Asia & Australasia
+* Africa
+We are particularly keen to hear from academic institutions in Africa and Central America that may be interested in testing CCRP code as we do not yet have partners within these regions.
 
 [Map source](https://upload.wikimedia.org/wikipedia/commons/8/88/World_Time_Zones_Map.png)
 <img width="1335" alt="Screenshot 2023-03-04 at 09 53 33" src="https://user-images.githubusercontent.com/42236514/222893483-84f9206d-ae08-4116-ba25-5034eec667d3.png">
@@ -110,4 +112,4 @@ As the number of countries involved in the CCRP expands, self-managing Global Re
 - Ethics (soon to be activated)
 
 
-If you are an academic institution involved in research into stock sustainability and resilience in a country not represented above, and would like to discuss joining the Colouring Cities Research Programme, please contact Polly Hudson at The Alan Turing Institute at phudson@turing.ac.uk. If you would like to discuss collaboration with an existing Colouring Cities partner please contact the Principal Investigator, details for which may be found on individual countries' information pages as provided above.
+If you are an academic institution involved in research into stock sustainability and resilience, and would like to discuss joining the Colouring Cities Research Programme, please contact Polly Hudson at The Alan Turing Institute at phudson@turing.ac.uk. If you would like to discuss collaboration with an existing Colouring Cities partner please contact the Principal Investigator, details for which may be found on individual countries' information pages in our **Open Manual**.
