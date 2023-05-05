@@ -1,5 +1,11 @@
 This is the repo for the Colouring Cities Research Programme Github pages site
 
+## Tips
+
+To edit the text on the left-hand sidebar of the site, edit the "description" in _config.yml.
+
+## License
+
 [![CC BY 4.0][cc-by-shield]][cc-by]
 
 This work is licensed under a
