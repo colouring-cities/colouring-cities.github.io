@@ -46,14 +46,14 @@ The CCRP also works to provide a welcoming and stimulating space in which intern
 
 All CCRP platforms are at different stages of development.  Information on current CCRP academic partners and live platform links (where available) are provided below. Discussions regarding Colouring Cities platform set-up are also underway with academic institutions in Switzerland, Japan, India and Bangladesh. 
 
-### [Colouring Australia]
+### [Colouring Australia](https://www.colouringaustralia.org/)
 * Academic lead: The Cities Future Research Centre. University of New South Wales in collaboration with the Universities of Adelaide, Brisbane, Canberra, Curtin, Melbourne, Swinburne, Queensland and S.Australia
 * CCRP Information page [link](https://github.com/colouring-cities/manual/wiki/M1.-COLOURING-AUSTRALIA)
+* Australian Housing Data Analytics platform [link](https://www.ahdap.org/)
 
 ### Colouring Bahrain
 * Academic lead: Urban and Housing Lab. University of Bahrain
 * CCRP Information page [link](https://github.com/colouring-cities/manual/wiki/M2.-COLOURING-BAHRAIN)
-* Australian Housing Data Analytics platform [link](https://www.ahdap.org/)
 
 ### [Colouring Britain/Colouring London prototype](https://cl-staging.uksouth.cloudapp.azure.com/) 
 * Academic lead: The Alan Turing Institute, Urban Analytics Programme
