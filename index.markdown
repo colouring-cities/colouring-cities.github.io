@@ -12,7 +12,9 @@ layout: default
 
 The Colouring Cities Research Programme (CCRP) designs and tests open-source tools that facilitate knowledge and data sharing on national building stocks. The CCRP is run by the [Alan Turing Institute](https://www.turing.ac.uk/about-us), the UK's National Institute of Data Science and Artificial Intelligence. The Turing's purpose is to make great leaps in data science and artificial intelligence (AI) research to change the world for the better. 
 
-[Alan Turing](https://www.turing.ac.uk/blog/what-alan-turing-means-us) argued that "_the isolated individual does not develop any intellectual power  …The search for new techniques must be regarded as carried out by the human community as a whole, rather than by individuals_".  The CCRP programme brings together knowledge from across countries, held within communities, academia, industry, government and the third sector, and within science and technology, the humanities and the arts, to help solve complex urban problems. It does this by facilitating the co-creation of open data platforms that map data, at building level, on the composition, performance, and dynamic behaviour of building stocks.
+[Alan Turing](https://www.turing.ac.uk/blog/what-alan-turing-means-us) argued that "_the isolated individual does not develop any intellectual power  …The search for new techniques must be regarded as carried out by the human community as a whole, rather than by individuals_".  
+
+The CCRP programme currently works across eleven countries to bring together knowledge held within communities, academia, industry, government and the third sector, and across science and technology, the humanities and the arts, to help solve complex urban problems. It does this by supporting the co-creation and co-management of open data platforms that map data, at building level, on the composition, performance, and dynamic behaviour of national building stocks.
 
 
 {% include youtube.html id="p_cyp1B55Io" %}
@@ -20,14 +22,14 @@ The Colouring Cities Research Programme (CCRP) designs and tests open-source too
 
 
 Colouring Cities platforms are designed to:
-* effect a step change in the range, scale, quality and accessibility of spatial building attribute data, at building level, for use in socio-economic and environmental research, and in sustainable building practice;
+* effect a step change in the range, scale, quality and accessibility of spatial building attribute data, at building level, for use in socio-economic and environmental research, urban management and sustainable building practice;
 * increase access to data necessary to improve stock quality, sustainability, efficiency and resilience in line with the [United Nations' [Sustainable Development Goals](https://sdgs.un.org/goals) and [New Urban Agenda](https://habitat3.org/the-new-urban-agenda/);
-* increase access to data at global scale to exploit the potential of AI to gain rapid insights into the stock as a complex dynamic system;
-* test an academic governance model for a network of low-cost, interoperable, but independently managed open data platforms whose standardised, building level datasets allow for comparative analysis of stocks across countries;
-* test and integrate a range of data capture methods, and feedback loops between these, to support engagement of as many stakeholders as possible and in doing so to maximise data richness, accuracy, granularity, range and geographic cover; 
-* advance ethical, reproducible, and collaborative data science, as set out in [The Turing Way](https://the-turing-way.netlify.app/index.html).
+* facilitate the production of large-scale high quality datasets required to support interdisplinary collaboration and accelerate urban sustainability problem solving;
+* test an academic governance model for a network of low-cost, interoperable, but independently managed open data platforms where standardised, building level datasets allow for comparative analysis of stocks across countries;
+* test and integrate a range of data capture methods, and feedback loops, to support engagement of diverse stakeholders and in doing so maximise data richness, accuracy, granularity, range and geographic cover; 
+* advance discussion on ethical issues relating to the capture and release of building attribute data, and promote ethical, reproducible, and collaborative data science, as laid out within [The Turing Way](https://the-turing-way.netlify.app/index.html).
 
-The CCRP is a branded research programme that enables international academic institutions involved in building stock research, and research software engineering, to pool knowledge, and co-develop and test open-source code for Colouring Cities platforms. Over 45 academics currently collaborate on the project across nine countries. Each CCRP platform is managed by academic partners at country level, and each follows an agreed set of [protocols](https://github.com/colouring-cities/manual/wiki/B1.-CCRP-Protocols) drafted by the Alan Turing Institute. Academic partners coordinate research funding at national level and oversee collaborative maintenance frameworks- as pioneered by the open data movement-to facilitate stakeholder engagement in adding, updating and verifying data. CCRP core code, and additional country specific code, are released under a GNU General Public License via GitHub. CCRP building attribute datasets are released via individual international platforms under an Open Data Commons Open Database License. The CCRP Open Manual is being developed under an MIT License.
+The CCRP is a branded research programme that enables international academic institutions involved in building stock research, and research software engineering, to pool knowledge, and co-develop and test open-source code for Colouring Cities platforms. Over 45 academics currently collaborate on the project across eleven countries. Each CCRP platform is managed by academic partners at country level, and each follows an agreed set of [protocols](https://github.com/colouring-cities/manual/wiki/B1.-CCRP-Protocols) drafted by the Alan Turing Institute. Academic partners coordinate research funding at national level and oversee collaborative maintenance frameworks- as pioneered by the open data movement-to facilitate stakeholder engagement in adding, updating and verifying data. CCRP core code, and additional country specific code, are released under a GNU General Public License via GitHub. CCRP building attribute datasets are released via individual international platforms under an Open Data Commons Open Database License. The CCRP Open Manual is being developed under an MIT License.
 
 <img width="1095" alt="Screenshot 2023-03-18 at 07 45 29" src="https://user-images.githubusercontent.com/42236514/226092687-96a527ac-807a-4e43-85f2-0fa1f9889e2f.png">
 
@@ -96,13 +98,13 @@ All CCRP platforms are at different stages of development.  Information on curre
 
 ## **Academic networks and hubs**
 As the number of countries involved in the CCRP expands, self-managing Global Region Hubs will be set-up and co-ordinated by interested academic partners/academic consortia in order to maximise help-in-kind support for participating institutions at global region level, and to help to encourage and track use of CCRP data in diverse areas of socio-economic and environmental research. Regional hubs are currently being developed, based on location and also on time zone. Hubs below will likely need to subdivided as new countries come on board. 
-* North, Central & South America
-* North Africa and the Middle East
+* the Americas 
+* Africa and the Middle East
 * Asia & Australasia
-* West, South and East Africa.
-We are particularly keen to hear from academic institutions in Africa, Central America interested in testing CCRP code as we do not yet have partners within these regions.
+* Europe
+We are particularly keen to hear from academic institutions in Africa, Central America and North Asia interested in testing CCRP code as we do not have representation within these global regions.
 
-Two models for country level academic networks, designed to provide trusted data moderation and drive high quality data uploads at regional scale, are currently being tested in Australia and the UK. 
+Two national academic network models for country level academic networks, designed to provide trusted data moderation and drive high quality data uploads at regional scale, are currently being tested in Australia and the UK. 
 
 ***
 ## **CCRP Open Manual link**
