@@ -4,7 +4,8 @@
 
 layout: default
 ---
-![CCRP Global Map](assets/images/ccmap.png)
+<img width="908" alt="Screenshot 2023-06-26 at 11 03 21" src="https://github.com/colouring-cities/colouring-cities.github.io/assets/42236514/365e9ea5-10bc-4b8a-a1b8-8449849ec0c5">
+
 
 
 ## Overview
@@ -44,7 +45,7 @@ CCRP is a research-led programme comprised of an informal consortium of academic
 
 The CCRP also works to provide a welcoming and stimulating space in which international researchers wishing can co-design and test Colouring Cities platforms to the highest standards to support application of captured data in many areas of socio-economic and environmental research, and to ensure ethical considerations are prioritised. Improvements to the governance model, protocols, back and front end design, and to content are ongoing and incremental, and build on partner findings. CCRP research partners can be identified by their exclusive use of the Colouring Cities logo, and their inclusion on this page, and on the [Alan Turing Institute CCRP webpage](https://www.turing.ac.uk/research/research-projects/colouring-london-and-colouring-cities-research-programme).  No other applications of Colouring Cities code, interface design or logo are endorsed by the Alan Turing Institute. Information on CCRP resources provided by The Alan Turing Institute can be found [here](https://github.com/colouring-cities/manual/wiki/B.-CCRP-INTERNATIONAL-RESEARCH-PARTNERS-;-links,-resources,-protocols-&-meeting-dates).
 
-All CCRP platforms are at different stages of development.  Information on current CCRP academic partners and live platform links (where available) are provided below. Discussions regarding Colouring Cities platform set-up are also underway with academic institutions in Switzerland, Japan, India and Bangladesh. 
+All CCRP platforms are at different stages of development.  Information on current CCRP academic partners and live platform links (where available) are provided below. Discussions regarding Colouring Cities platform set-up are also underway with academic institutions in the Philippines, Switzerland, Japan, India and Bangladesh. 
 
 ### [Colouring Australia](https://www.colouringaustralia.org/)
 * Academic lead: The Cities Future Research Centre. University of New South Wales in collaboration with the Universities of Adelaide, Brisbane, Canberra, Curtin, Melbourne, Swinburne, Queensland and S.Australia
@@ -54,6 +55,10 @@ All CCRP platforms are at different stages of development.  Information on curre
 ### Colouring Bahrain
 * Academic lead: Urban and Housing Lab. University of Bahrain
 * CCRP Information page [link](https://github.com/colouring-cities/manual/wiki/M2.-COLOURING-BAHRAIN)
+
+### Colouring Canada
+* Academic lead: CERC in Smart, Sustainable and Resilient Communities and Cities. Concordia Uniersity, Montreal
+* CCRP Information page- awaiting activation
 
 ### [Colouring Britain/Colouring London prototype](https://cl-staging.uksouth.cloudapp.azure.com/) 
 * Academic lead: The Alan Turing Institute, Urban Analytics Programme
@@ -78,6 +83,10 @@ All CCRP platforms are at different stages of development.  Information on curre
 ### Colouring Lebanon. Reactivation due July 2023
 * Academic lead: The American University of Beirut, Urban Lab
 * CCRP information page [link](https://github.com/colouring-cities/manual/wiki/M9.-COLOURING-LEBANON)
+
+### Colouring Philippines
+* Aademic lead: Awaiting activation
+* CCRP information page - awaiting activation
   
 ### Colouring Sweden
 * Academic lead: Mälardalen University, Västerås, Department of Sustainable Environment and Construction, School of Business Society and Engineering, 
@@ -88,10 +97,10 @@ All CCRP platforms are at different stages of development.  Information on curre
 ## **Academic networks and hubs**
 As the number of countries involved in the CCRP expands, self-managing Global Region Hubs will be set-up and co-ordinated by interested academic partners/academic consortia in order to maximise help-in-kind support for participating institutions at global region level, and to help to encourage and track use of CCRP data in diverse areas of socio-economic and environmental research. Regional hubs are currently being developed, based on location and also on time zone. Hubs below will likely need to subdivided as new countries come on board. 
 * North, Central & South America
-* Europe & the Middle East
+* North Africa and the Middle East
 * Asia & Australasia
-* Africa.
-We are particularly keen to hear from academic institutions in Africa and Central America interested in testing CCRP code as we do not yet have partners within these regions.
+* West, South and East Africa.
+We are particularly keen to hear from academic institutions in Africa, Central America interested in testing CCRP code as we do not yet have partners within these regions.
 
 Two models for country level academic networks, designed to provide trusted data moderation and drive high quality data uploads at regional scale, are currently being tested in Australia and the UK. 
 
