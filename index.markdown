@@ -12,22 +12,22 @@ layout: default
 
 The Colouring Cities Research Programme (CCRP) designs and tests open-source tools that facilitate knowledge and data sharing on national building stocks. The CCRP is run by the [Alan Turing Institute](https://www.turing.ac.uk/about-us), the UK's National Institute of Data Science and Artificial Intelligence. The Turing's purpose is to make great leaps in data science and artificial intelligence (AI) research to change the world for the better. 
 
-[Alan Turing](https://www.turing.ac.uk/blog/what-alan-turing-means-us) argued that "_the isolated individual does not develop any intellectual power  …The search for new techniques must be regarded as carried out by the human community as a whole, rather than by individuals_".  
+The mathematician and computer science pioneer [Alan Turing](https://www.turing.ac.uk/blog/what-alan-turing-means-us) argued that "_the isolated individual does not develop any intellectual power  …The search for new techniques must be regarded as carried out by the human community as a whole, rather than by individuals_".  
 
-The CCRP programme currently works across eleven countries to bring together knowledge held within communities, academia, industry, government and the third sector, and across science and technology, the humanities and the arts, to help solve complex urban problems. It does this by supporting the co-creation and co-management of open data platforms that map data, at building level, on the composition, performance, and dynamic behaviour of national building stocks.
+The CCRP programme currently works across eleven countries to bring together knowledge held within communities, academia, industry, government and the third sector - and across science, technology, the humanities and the arts - to help solve complex urban problems. It does this by supporting the co-creation and co-management of research-led, networked, open data platforms that map data, at building level, on the composition, performance, and dynamic behaviour of national building stocks.
 
 
 {% include youtube.html id="W66K5SdUcpg" %}
 
 
 
+
 Colouring Cities platforms are designed to:
-* effect a step change in the range, scale, quality and accessibility of spatial building attribute data, at building level, for use in socio-economic and environmental research, urban management and sustainable building practice;
-* increase access to data necessary to improve stock quality, sustainability, efficiency and resilience in line with the [United Nations' [Sustainable Development Goals](https://sdgs.un.org/goals) and [New Urban Agenda](https://habitat3.org/the-new-urban-agenda/);
-* facilitate the production of large-scale high quality datasets required to support interdisplinary collaboration and accelerate urban sustainability problem solving;
-* test an academic governance model for a network of low-cost, interoperable, but independently managed open data platforms where standardised, building level datasets allow for comparative analysis of stocks across countries;
-* test and integrate a range of data capture methods, and feedback loops, to support engagement of diverse stakeholders and in doing so maximise data richness, accuracy, granularity, range and geographic cover; 
-* advance discussion on ethical issues relating to the capture and release of building attribute data, and promote ethical, reproducible, and collaborative data science, as laid out within [The Turing Way](https://the-turing-way.netlify.app/index.html).
+* effect a step change in the range and scale of spatial building attribute data freely available at building level, relevant to socio-economic and environmental research, urban management and sustainable building practice;
+* increase the quality of data necessary to improve the quality, sustainability, efficiency and resilience of stocks, in line with the United Nations' [Sustainable Development Goals](https://sdgs.un.org/goals) and its [New Urban Agenda](https://habitat3.org/the-new-urban-agenda/);
+* test and integrate a range of data capture methods, including computational approaches and crowdsourcing and feedback loops between these, to support interdisciplinary work and engagement of diverse stakeholders to maximise data richness, accuracy, granularity, range and geographic cover;
+* test an academic governance model for networked, low-cost, independently managed open data platforms where standardised building level datasets allow for comparative analysis of multiple attributes across countries;
+* advance discussion on ethical issues relating to the capture and release of building attribute data, and to promote ethical, inclusive, reproducible, and collaborative data science, as laid out within [The Turing Way](https://the-turing-way.netlify.app/index.html).
 
 The CCRP is a branded research programme that enables international academic institutions involved in building stock research, and research software engineering, to pool knowledge, and co-develop and test open-source code for Colouring Cities platforms. Over 45 academics currently collaborate on the project across eleven countries. Each CCRP platform is managed by academic partners at country level, and each follows an agreed set of [protocols](https://github.com/colouring-cities/manual/wiki/B1.-CCRP-Protocols) drafted by the Alan Turing Institute. Academic partners coordinate research funding at national level and oversee collaborative maintenance frameworks- as pioneered by the open data movement-to facilitate stakeholder engagement in adding, updating and verifying data. CCRP core code, and additional country specific code, are released under a GNU General Public License via GitHub. CCRP building attribute datasets are released via individual international platforms under an Open Data Commons Open Database License. The CCRP Open Manual is being developed under an MIT License.
 
