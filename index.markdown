@@ -75,13 +75,15 @@ All CCRP platforms are at different stages of development.  Information on curre
 * Academic lead: National Technical University of Athens, Urban Planning Research Lab, School of Architecture & Geochoros Geospatial Analysis and GIS Research Group, School of Rural, Surveying and Geoinformatics Engineering
 * CCRP information page [link](https://github.com/colouring-cities/manual/wiki/M6.-COLOURING-GREECE) 
 
-### [Colouring Indonesia](https://indonesia.colouringcities.org/) Temporaily paused. Awaiting second stage funding
+### [Colouring Indonesia](https://indonesia.colouringcities.org/) 
 * Academic lead: King's College London UK, Department of Geography with the Institut Teknologi Bandung, Indonesia, Departments of Geodesy and Geomatic Engineering & of Urban and Regional Planning
 * CCRP information page [link](https://github.com/colouring-cities/manual/wiki/M8.-COLOURING-INDONESIA)
+* Temporaily paused. Awaiting second stage funding.
 
-### Colouring Lebanon. Reactivation due July 2023
+### Colouring Lebanon. 
 * Academic lead: The American University of Beirut, Urban Lab
 * CCRP information page [link](https://github.com/colouring-cities/manual/wiki/M9.-COLOURING-LEBANON)
+* Reactivation due Summer 2023
 
 ### Colouring Philippines
 * Aademic lead: Awaiting activation
