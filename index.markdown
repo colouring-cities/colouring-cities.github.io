@@ -4,7 +4,8 @@
 
 layout: default
 ---
-<img width="908" alt="Screenshot 2023-06-26 at 11 03 21" src="https://github.com/colouring-cities/colouring-cities.github.io/assets/42236514/365e9ea5-10bc-4b8a-a1b8-8449849ec0c5">
+
+<img width="866" alt="Screenshot 2023-07-12 at 09 22 05" src="https://github.com/colouring-cities/colouring-cities.github.io/assets/42236514/16b71911-ee83-4943-829d-35a04ebda242">
 
 
 
