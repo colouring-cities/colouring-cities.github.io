@@ -63,7 +63,7 @@ All CCRP platforms are at different stages of development.  Information on curre
 * Academic lead: The Alan Turing Institute, Urban Analytics Programme
 * CCRP Information page [link](https://github.com/colouring-cities/manual/wiki/M3.-COLOURING-BRITAIN)
 
-### Colouring Colombia
+### [Colouring Colombia](http://ec2-3-135-71-155.us-east-2.compute.amazonaws.com)
 * Academic lead: The District University of Bogotá -Universidad Distrital - Francisco Jose de Caldas. The Department of Cadastral and Geodesy Engineering and the NIDE research group (Núcleo de Investigación en Datos Espaciales. 
 * CCRP Information page [link](https://github.com/colouring-cities/manual/wiki/M4.-COLOURING-COLOMBIA)
 
