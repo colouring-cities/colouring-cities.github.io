@@ -104,11 +104,11 @@ We are particularly keen to hear from academic institutions in Africa, Central A
 ## **CCRP Open Manual link**
 
 - For more information on different aspects of the Colouring Cities programme please also see our [CCRP Open Manual](https://github.com/colouring-cities/manual/wiki).
-- [About]((https://github.com/colouring-cities/manual/wiki/A.-ABOUT)
+- [About](https://github.com/colouring-cities/manual/wiki/A.-ABOUT)
 - [CCRP international academic partners](https://github.com/colouring-cities/manual/wiki/B.-CCRP-INTERNATIONAL-RESEARCH-PARTNERS-;-links,-resources,-protocols-&-meeting-dates)
 - [Research goals and research methods](https://github.com/colouring-cities/manual/wiki/G.-RESEARCH-METHODS-&-GOALS)
 - [Governance, strategy & risk mitigation](https://github.com/colouring-cities/manual/wiki/F.-GOVERNANCE-MODEL,-development-strategy,-risks-&-funding)
-- [CCRP partner protocols](https://github.com/colouring-cities/manual/wiki/B1.-CCRP-Protocols)](https://github.com/colouring-cities/manual/wiki/C1.-PROTOCOLS,-codes-of-conduct-&-data-sharing-agreements)
+- [CCRP partner protocols](https://github.com/colouring-cities/manual/wiki/B1.-CCRP-Protocols)
 - [Data we collect](https://github.com/colouring-cities/manual/wiki/I.--DATA)
 - [Data Capture Methods](https://github.com/colouring-cities/manual/wiki/J.-DATA-CAPTURE-METHODS--choice-and-discussion)
 - [Technical description](https://github.com/colouring-cities/manual/wiki/D1.-TECHNICAL:-Overview-and-background)
