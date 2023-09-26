@@ -84,10 +84,6 @@ All CCRP platforms are at different stages of development.  Information on curre
 * Academic lead: The American University of Beirut, Urban Lab
 * CCRP information page [link](https://github.com/colouring-cities/manual/wiki/M9.-COLOURING-LEBANON)
 * Reactivation due Summer 2023
-
-### Colouring Philippines
-* Aademic lead: Awaiting activation
-* CCRP information page - awaiting activation
   
 ### Colouring Sweden
 * Academic lead: Mälardalen University, Västerås, Department of Sustainable Environment and Construction, School of Business Society and Engineering, 
