@@ -104,17 +104,16 @@ We are particularly keen to hear from academic institutions in Africa, Central A
 ## **CCRP Open Manual link**
 
 - For more information on different aspects of the Colouring Cities programme please also see our [CCRP Open Manual](https://github.com/colouring-cities/manual/wiki).
-
-- [About]([https://github.com/colouring-cities/manual/wiki/A.-What-is-the-CCRP%3F)](https://github.com/colouring-cities/manual/wiki/A.-ABOUT)
+- [About]((https://github.com/colouring-cities/manual/wiki/A.-ABOUT)
 - [CCRP international academic partners](https://github.com/colouring-cities/manual/wiki/B.-CCRP-INTERNATIONAL-RESEARCH-PARTNERS-;-links,-resources,-protocols-&-meeting-dates)
-- [Research goals and research methods](https://github.com/colouring-cities/manual/wiki/G.-RESEARCH-METHODS-&-GOALS
+- [Research goals and research methods](https://github.com/colouring-cities/manual/wiki/G.-RESEARCH-METHODS-&-GOALS)
 - [Governance, strategy & risk mitigation](https://github.com/colouring-cities/manual/wiki/F.-GOVERNANCE-MODEL,-development-strategy,-risks-&-funding)
 - [CCRP partner protocols](https://github.com/colouring-cities/manual/wiki/B1.-CCRP-Protocols)](https://github.com/colouring-cities/manual/wiki/C1.-PROTOCOLS,-codes-of-conduct-&-data-sharing-agreements)
 - [Data we collect](https://github.com/colouring-cities/manual/wiki/I.--DATA)
 - [Data Capture Methods](https://github.com/colouring-cities/manual/wiki/J.-DATA-CAPTURE-METHODS--choice-and-discussion)
 - [Technical description](https://github.com/colouring-cities/manual/wiki/D1.-TECHNICAL:-Overview-and-background)
 - [Publications and events](https://github.com/colouring-cities/manual/wiki/E:-CCRP--PUBLICATIONS-&-ARTICLES)
-- [Ethics](https://github.com/colouring-cities/manual/wiki/C.-ETHICAL-FRAMEWORK-and-ethics-policies
+- [Ethics](https://github.com/colouring-cities/manual/wiki/C.-ETHICAL-FRAMEWORK-and-ethics-policies)
 
 
 If you are an academic institution involved in research into stock sustainability and resilience, and would like to discuss joining the Colouring Cities Research Programme, please contact Polly Hudson at The Alan Turing Institute at phudson@turing.ac.uk. If you would like to discuss collaboration with an existing Colouring Cities partner please contact the Principal Investigator, details for which may be found on individual information pages for each country in our **Open Manual**.
