@@ -112,7 +112,7 @@ We are particularly keen to hear from academic institutions in Africa, Central A
 - [Data we collect](https://github.com/colouring-cities/manual/wiki/I.--DATA)
 - [Data Capture Methods](https://github.com/colouring-cities/manual/wiki/J.-DATA-CAPTURE-METHODS--choice-and-discussion)
 - [Technical description](https://github.com/colouring-cities/manual/wiki/D1.-TECHNICAL:-Overview-and-background)
-- [Publications and events](https://github.com/colouring-cities/manual/wiki/E:-PUBLICATIONS-&-ARTICLES)
+- [Publications and events](https://github.com/colouring-cities/manual/wiki/E:-PUBLICATIONS,-EVENTS-&-AWARDS)
 - [Ethics](https://github.com/colouring-cities/manual/wiki/C.-ETHICAL-FRAMEWORK-and-ethics-policies)
 
 
