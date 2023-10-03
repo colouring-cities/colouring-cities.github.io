@@ -106,14 +106,14 @@ We are particularly keen to hear from academic institutions in Africa, Central A
 - For more information on different aspects of the Colouring Cities programme please also see our [CCRP Open Manual](https://github.com/colouring-cities/manual/wiki).
 - [About](https://github.com/colouring-cities/manual/wiki/A.-ABOUT)
 - [CCRP international academic partners](https://github.com/colouring-cities/manual/wiki/B.-INTERNATIONAL-PARTNERS-;-links,-resources,-protocols-&-meeting-dates)
-- [Research goals and research methods](https://github.com/colouring-cities/manual/wiki/G.-RESEARCH-METHODS-&-GOALS)
-- [Governance, strategy & risk mitigation](https://github.com/colouring-cities/manual/wiki/F.-GOVERNANCE-MODEL,-development-strategy,-risks-&-funding)
-- [CCRP partner protocols](https://github.com/colouring-cities/manual/wiki/C1.-PROTOCOLS,-codes-of-conduct-&-data-sharing-agreements)
-- [Data we collect](https://github.com/colouring-cities/manual/wiki/I.--DATA)
-- [Data Capture Methods](https://github.com/colouring-cities/manual/wiki/J.-DATA-CAPTURE-METHODS--choice-and-discussion)
-- [Technical description](https://github.com/colouring-cities/manual/wiki/D1.-TECHNICAL:-Overview-and-background)
-- [Publications and events](https://github.com/colouring-cities/manual/wiki/E:-PUBLICATIONS,-EVENTS-&-AWARDS)
-- [Ethics](https://github.com/colouring-cities/manual/wiki/C.-ETHICAL-FRAMEWORK-and-ethics-policies)
+- [Governance, strategy & risk mitigation](https://github.com/colouring-cities/manual/wiki/C.-GOVERNANCE-MODEL,-development-strategy,-risks-&-funding)
+- [Research goals and research methods](https://github.com/colouring-cities/manual/wiki/G.-RESEARCH-METHODS-&-GOALS)](https://github.com/colouring-cities/manual/wiki/D.-RESEARCH-METHODS-&-GOALS)
+- [Publications and events](https://github.com/colouring-cities/manual/wiki/D:-PUBLICATIONS,-EVENTS-&-AWARDS)
+- [Ethical Framework](https://github.com/colouring-cities/manual/wiki/F1.-ETHICAL-FRAMEWORK-and-ethics-policies)
+- [CCRP partner protocols](https://github.com/colouring-cities/manual/wiki/F2.-PROTOCOLS,-codes-of-conduct-&-data-sharing-agreements)
+- [Data we collect](https://github.com/colouring-cities/manual/wiki/E1.--DATA)
+- [Data Capture Methods](https://github.com/colouring-cities/manual/wiki/E2.-DATA-CAPTURE-METHODS--choice-and-discussion)
+- [Technical overview](https://github.com/colouring-cities/manual/wiki/G1.-TECHNICAL-OVERVIEW)
 
 
 If you are an academic institution involved in research into stock sustainability and resilience, and would like to discuss joining the Colouring Cities Research Programme, please contact Polly Hudson at The Alan Turing Institute at phudson@turing.ac.uk. If you would like to discuss collaboration with an existing Colouring Cities partner please contact the Principal Investigator, details for which may be found on [CCRP Open Manual](https://github.com/colouring-cities/manual/wiki) pages for participating countries.
