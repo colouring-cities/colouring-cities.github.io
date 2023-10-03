@@ -107,7 +107,7 @@ We are particularly keen to hear from academic institutions in Africa, Central A
 - [About](https://github.com/colouring-cities/manual/wiki/A.-ABOUT)
 - [CCRP international academic partners](https://github.com/colouring-cities/manual/wiki/B.-INTERNATIONAL-PARTNERS-;-links,-resources,-protocols-&-meeting-dates)
 - [Governance, strategy & risk mitigation](https://github.com/colouring-cities/manual/wiki/C.-GOVERNANCE-MODEL,-development-strategy,-risks-&-funding)
-- [Research goals and research methods](https://github.com/colouring-cities/manual/wiki/G.-RESEARCH-METHODS-&-GOALS)](https://github.com/colouring-cities/manual/wiki/D.-RESEARCH-METHODS-&-GOALS)
+- [Research goals and research methods](https://github.com/colouring-cities/manual/wiki/G.-RESEARCH-METHODS-&-GOALS)
 - [Publications and events](https://github.com/colouring-cities/manual/wiki/D:-PUBLICATIONS,-EVENTS-&-AWARDS)
 - [Ethical Framework](https://github.com/colouring-cities/manual/wiki/F1.-ETHICAL-FRAMEWORK-and-ethics-policies)
 - [CCRP partner protocols](https://github.com/colouring-cities/manual/wiki/F2.-PROTOCOLS,-codes-of-conduct-&-data-sharing-agreements)
