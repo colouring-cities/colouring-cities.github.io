@@ -39,7 +39,7 @@ CCRP categories are visually grouped into a 12 category grid (which doubles as t
 
 <img width="465" alt="Screenshot 2023-02-16 at 12 46 24" src="https://user-images.githubusercontent.com/42236514/219368623-5129b306-f6f3-4d39-be9b-b86170ce6f14.png">
 
-## CCRP platforms and platform hosts
+## CCRP platform links
 
 The CCRP is a research-led programme designed to bring together researchers with similar research interests and values from across the globe. The CCRP works to provide a welcoming and stimulating space in which ideas and data can be shared. As well as operating within ethical frameworks set by individual research institutions, all CCRP partners sign up to its ethical framework and  protocols. CCCP partners use identical interfaces and main data category keypads to maximise clarity and interoperability of systems, to maintain programme and platform quality, and to maximise user trust. This is particularly important as software developer/engineers are actively encouraged to experiment with CCRP open code, and data are released with permission for third party use. Clear visual branding is also necessary to allow the purpose, principles, and quality of CCRP platforms to be instantly understood regardless of which country a Colouring Cities platform is operating in.  Where platforms differ is in additional subcategory inclusion relevant to national/regional contexts. 
 
