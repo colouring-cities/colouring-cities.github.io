@@ -11,7 +11,7 @@ layout: default
 
 ## Overview
 
-The Colouring Cities Research Programme (CCRP) designs and tests open-source tools that facilitate knowledge and data sharing on national building stocks. The CCRP is managed by the [Alan Turing Institute](https://www.turing.ac.uk/about-us), the UK's National Institute of Data Science and Artificial Intelligence, and is being developed in collaboration with international academic institutions across the ten countries listed below. Strategic direction for international rollout of networked global region hubs is overseen by the CCRP's international Academic Steering Group which currently includes representatives from the Alan Turing Institute, the University of New South Wales (Asia Pacific), Concordia University (North America hub), and IOER Dresden (Europe hub).
+The Colouring Cities Research Programme (CCRP) designs and tests open-source tools that facilitate knowledge and data sharing on national building stocks. The CCRP is managed by the [Alan Turing Institute](https://www.turing.ac.uk/about-us), the UK's National Institute of Data Science and Artificial Intelligence, and is being developed in collaboration with international academic institutions across the ten countries listed below. Strategic direction for international rollout of networked global region hubs is overseen by the CCRP's international Academic Steering Group which currently includes representatives from the University of New South Wales, City Futures research Center (Colouring Australia/Asia Pacific hub lead); Concordia University, Canada Excellence Research Chair in Smart, Sustainable and Resilient Communities and Cities (Colouring Canada/North America hub lead), and The Leibniz institute for Ecological & Urban Regional Development, IOER Research Data Centre, Dresden (Colouring Germany/Europe hub lead).
 
 The CCRP programme brings together knowledge, held within communities, academia, industry, government and the third sector - and across science, technology, the humanities and the arts- to help solve complex urban problems. It does this by supporting the co-creation and co-management of research-led, networked, open data platforms that visualise data, at building level, on the composition, performance, and dynamic behaviour of national building stocks. The programme buildings on the conviction of the computer science and AI pioneer, Alan Turing, that "_the isolated individual does not develop any intellectual power  …The search for new techniques must be regarded as carried out by the human community as a whole, rather than by individuals_". 
 
@@ -64,7 +64,7 @@ All international CCRP platforms are at different stages of development.  Inform
 * CCRP Information page [link](https://github.com/colouring-cities/manual/wiki/M4.-COLOURING-COLOMBIA)
 
 ### [Colouring Germany](https://colouring.dresden.ioer.de/)
-* Academic lead: Leibniz Institute of Ecological Urban and Regional Development, Dresden, Research Area Spatial Information and Modelling. 
+* Academic lead: Leibniz Institute of Ecological Urban and Regional Development, Dresden, Research Datas Centre and Spatial Information and Modelling research group 
 * CCRP Information page [link](https://github.com/colouring-cities/manual/wiki/M5.-COLOURING-GERMANY)
 
 ### [Colouring Greece](https://athens.colouringcities.org/)
