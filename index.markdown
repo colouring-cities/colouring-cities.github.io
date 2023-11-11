@@ -9,7 +9,7 @@ layout: default
 
 
 
-## Summary
+## Overview
 The Colouring Cities Research Programme (CCRP) is an open knoweldge initiative that designs and tests open-source tools to facilitate data sharing on national building stocks. The programme brings together knowledge held across countries, within academia, industry, government, the third sector, and communities, and across science, technology, the humanities and the arts, to help communities collectively solve complex urban problems. It does this through the co-creation and collaborative management of research-led, trusted, networked, open data platforms that visualise and release open data on the composition, performance, and dynamic behaviour of national building stocks. 
 
 ## Oversight
