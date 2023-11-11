@@ -102,7 +102,7 @@ platform links (where available) are provided below. Discussions regarding CCRP 
 - [Research goals and research methods](https://github.com/colouring-cities/manual/wiki/D.-RESEARCH-GOALS-&-METHODS)
 - [Publications, events and awards](https://github.com/colouring-cities/manual/wiki/D:-PUBLICATIONS,-EVENTS-&-AWARDS)
 - [Ethical Framework](https://github.com/colouring-cities/manual/wiki/F1.-ETHICAL-FRAMEWORK-and-ethics-policies)
-- [CCRP partner protocols](https://github.com/colouring-cities/manual/wiki/F2.-PROTOCOLS,-codes-of-conduct-&-data-sharing-agreements)
+- [CCRP partner protocols](https://github.com/colouring-cities/manual/wiki/F2.-PROTOCOLS-&-CODES-OF-CONDUCT)
 - [Data we collect](https://github.com/colouring-cities/manual/wiki/E1.--DATA)
 - [Data Capture Methods](https://github.com/colouring-cities/manual/wiki/E2.-DATA-CAPTURE-METHODS--choice-and-discussion)
 - [Technical overview](https://github.com/colouring-cities/manual/wiki/G1.-TECHNICAL-OVERVIEW)
