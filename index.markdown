@@ -10,7 +10,7 @@ layout: default
 
 
 ## Overview
-Buildings are where we spend most of our lives and most of our money, with building stocks being the most significant socio-cultural and economic resource of cities and their largest capital asset. Buildings and built infrastructure is responsible for almost 40% of global energy-related carbon emissions and 50% of all extracted materials (UNFCC, 2023).
+Buildings are where we spend most of our lives and most of our money, with building stocks being the most significant socio-cultural and economic resource of cities and their largest capital asset. Buildings and built infrastructure are also responsible for almost 40% of global energy-related carbon emissions and 50% of all extracted materials (UNFCC, 2023).
 
 Comprehensive spatial data on the composition, operation, and the dynamic behaviour of building stocks are now urgently required to help diverse stakeholders (from government, academia, industry, the third sector, and citizens) work collectively to accelerate improvements to the quality, efficiency, sustainability and resilience of national stocks and related built infrastructure.
 
