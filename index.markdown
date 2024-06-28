@@ -4,29 +4,37 @@
 
 layout: default
 ---
-
-<img width="866" alt="Screenshot 2023-07-12 at 09 22 05" src="https://github.com/colouring-cities/colouring-cities.github.io/assets/42236514/16b71911-ee83-4943-829d-35a04ebda242">
-
+<img width="855" alt="Screenshot 2024-06-26 at 14 23 13" src="https://github.com/colouring-cities/colouring-cities.github.io/assets/42236514/1114a92c-0992-413d-9e09-00860a733f63">
 
 
-## Overview
-Buildings are where we spend most of our lives and most of our money, with building stocks being the most significant socio-cultural and economic resource of cities and their largest capital asset. Buildings and built infrastructure are also responsible for almost 40% of global energy-related carbon emissions and 50% of all extracted materials (UNFCC, 2023).
+## What is the CCRP 
+The Colouring Cities Research Programme (CCRP) is a research-led open-source initiative, hosted by The Alan Turing Institute (UK), and co-created by international research institutions.It has been set up to: drive a step-change in access to high quality, standardised, geographically comprehensive microspatial building data; to facilitate knowledge exchange across countries; to accelerate net zero and UN Sustainable Development Goals, and to create more collaborative model for complex urban problem solving that maximises research efficiency, and also promotes academic values of research integrity and high ethical standards. 
 
-Comprehensive spatial data on the composition, operation, and the dynamic behaviour of building stocks are now urgently required to help diverse stakeholders (from government, academia, industry, the third sector, and citizens) work collectively to accelerate improvements to the quality, efficiency, sustainability and resilience of national stocks and related built infrastructure.
-
-However in many countries spatial information on buildings, at building level, is extremely difficult to obtain, often being highly fragmented, restricted, missing, or only available in aggregated form. 
-
-The Colouring Cities Research Programme (CCRP) is a research-led open-source initiative that has been set up to drive a step-change in access to high quality standardised comprehensive microspatial building data, facilitate knowledge exchange across countries to accelerate the move to Net Zero and meeting UN Sustainable Development Goals and to develop a test a more collaborative model for complex urban problem solving.  
 
 The CCRP tests a simple data sharing model that allows academic research teams to easily set-up and manage national open databases on stocks, and to quickly pool and voluntarily share relevant expertise, ideas, resources and standardised data within and across countries using the CCRP network.
 
-Over 100 researchers worldwide have contributed to the project so far, with over 60 academics currently involved, from  Australia, Austria, Bahrain, Britain, Canada, Colombia, Germany, Greece, Indonesia, Lebanon, Sweden, Switzerland.
+Over 100 researchers worldwide have contributed to the project since 2016. Over 70 academics from over twenty countries care urrently involved in helping set up, advise and manage Colouring Cities open data platforms, at national scale, which use CCRP open source code.
+
+<img width="801" alt="Screenshot 2024-06-26 at 22 26 28" src="https://github.com/colouring-cities/colouring-cities.github.io/assets/42236514/18fe9f47-dcf8-4658-8673-6019a8f6f241">
+
+## Purpose
+Buildings are where we spend most of our lives and most of our money, with building stocks being the most significant socio-cultural and economic resource of cities and their largest capital asset. They impact to everything from our health and wellbeing, and the quality if our homes to the safety and economic vitality of the areas where we live and work. Buildings and built infrastructure are also responsible for almost 40% of global energy-related carbon emissions and 50% of all extracted materials (UNFCC, 2023).
+
+Comprehensive spatial data on the composition, operation, and the dynamic behaviour of building stocks are now urgently required to help diverse stakeholders (from government, academia, industry, the third sector, and citizens) work collectively to accelerate improvements to the quality, efficiency, sustainability and resilience of national stocks and related built infrastructure.How many buildings do we have? What type of building are they? What are they used for and made of? How old are they and how much longer might they last? How repairable, adaptable and extendable are they? How energy efficient are they? What is their green context and their relationship to the street? Who built them? What type of ownership do they have? How well do local communities think they work and what impact can differences, and changes to, buildings and building stocks as a whole, have on our environment, our communities, our economies and our cultural landscape.
+
+
+
+
+
+However in many countries spatial information on buildings, at building level, is extremely difficult to obtain, often being highly fragmented, restricted, missing, or only available in aggregated form. Spatial data are also rarely standardised across countries making it extremely difficult to exploit advances in computational methods able to provide rapid insights into spatial data patterns and cycles and their implications.
+
+
 
 Colouring Cities platforms are designed to collect, collate, verify and release open data on buildings, held by academia, industry, government, the third sector, and communities. They are research-led, co-created, and collaboratively managed, networked and easy-to-maintain. They work to visualise and release over a 100 comprehensive microspatial open datasets on stock composition, performance, and dynamic behaviour. 
 
 The CCRP also looks to advance a more efficient, whole-of-society approach to knowledge sharing on buildings and cities, allowing for permanent open databases to be collaboratively maintained and enriched, year-on-year, by citizens, academia, government, industry and the voluntary sector. The Colouring Cities model has been built and successfully tested inbthe UK since 2016 using this step-by-step collaborative approach. 
 
-These are needed to answer questions such as: How many buildings do we have? What building types, uses, construction systems, ages, styles and sizes are located where? How repairable, adaptable and extendable are they? How long could they last if properly maintained? How energy efficient are they? Can they easily be retrofitted? How do they relate to the plot, street? What is their green context? Who built them and what is their ownership type, and how well do local communities think they work? 
+
 
 
 In 2020 the Colouring Cities Research Programme was set up at The Alan Turing Institute to support international research institutions wishing to reproduce and co-work on Colouring Cities code at city or country level. We currently collaborate with over 60 fantastic academics across twelve countries who contribute their research time.  Over two hundred consultees from academia, government, industry, the voluntary sector and the community (working across science, the humanities and the arts) have also been involved in the UK alone. 
