@@ -1,4 +1,4 @@
-This is the repo for the Colouring Cities Research Programme Github pages site
+This is the repo for the Colouring Cities Research Programme general information page
 
 ## Tips
 To edit main text click on index.markdown
