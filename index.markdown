@@ -65,12 +65,12 @@ ________________________________________________________________________________
 All platforms are different stages of development, as shown on the map at the top of the page.
 
 Live links are currently available for:
-[Colouring Australia](https://sydney.colouringaustralia.org/)
-[Colouring Britain](https://colouringbritain.org/)
-[Colouring Canada]( https://nextgenerations-cities.encs.concordia.ca/colouringmontreal/)
-[Colouring Greece](https://athens.colouringcities.org/)
-[Colouring Indonesia]( paused until August) 
-[Colouring Sweden](https://colouringsweden.se/)
+- [Colouring Australia](https://sydney.colouringaustralia.org/)
+- [Colouring Britain](https://colouringbritain.org/)
+- [Colouring Canada]( https://nextgenerations-cities.encs.concordia.ca/colouringmontreal/)
+- [Colouring Greece](https://athens.colouringcities.org/)
+- [Colouring Indonesia]( paused until August) 
+- [Colouring Sweden](https://colouringsweden.se/)
 
 _________________________________________________________________________________
 
