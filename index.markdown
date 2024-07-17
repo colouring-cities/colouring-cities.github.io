@@ -68,8 +68,8 @@ Live links are currently available for:
 - [Colouring Australia](https://sydney.colouringaustralia.org/)
 - [Colouring Britain](https://colouringbritain.org/)
 - [Colouring Canada]( https://nextgenerations-cities.encs.concordia.ca/colouringmontreal/)
+- [Colouring Germany](https://colouring.dresden.ioer.de/) 
 - [Colouring Greece](https://athens.colouringcities.org/)
-- [Colouring Indonesia]( paused until August) 
 - [Colouring Sweden](https://colouringsweden.se/)
 
 _________________________________________________________________________________
