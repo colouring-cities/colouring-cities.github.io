@@ -4,7 +4,8 @@
 
 layout: default
 ---
-<img width="855" alt="Screenshot 2024-06-26 at 14 23 13" src="https://github.com/colouring-cities/colouring-cities.github.io/assets/42236514/1114a92c-0992-413d-9e09-00860a733f63">
+<img width="832" alt="Screenshot 2024-07-29 at 13 57 19" src="https://github.com/user-attachments/assets/4df6bd56-b480-4033-af47-9cbcc6460137">
+
 
 "_the isolated individual does not develop any intellectual power …The search for new techniques must be regarded as carried out by the human community as a whole, rather than by individuals_". Alan Turing
 
