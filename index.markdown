@@ -4,7 +4,8 @@
 
 layout: default
 ---
-<img width="941" alt="Screenshot 2025-01-08 at 16 17 44" src="https://github.com/user-attachments/assets/553ef026-bf1d-456a-ae9d-ef0b565a5499" />
+<img width="285" alt="image" src="https://github.com/user-attachments/assets/dbc38941-4447-48cb-b1c9-6c8840c8c1fa" />
+
 
  "The search for new techniques must be regarded as carried out by the human community as a whole, rather than by individuals"
     Alan Turing, ‘Intelligent Machinery’ (1948)
