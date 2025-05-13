@@ -8,7 +8,7 @@ layout: default
 
 
  "The search for new techniques must be regarded as carried out by the human community as a whole, rather than by individuals"
-    Alan Turing, ‘Intelligent Machinery’ (1948)
+    Alan Turing, ‘Intelligent Machinery’ (1948).
 
 
 
