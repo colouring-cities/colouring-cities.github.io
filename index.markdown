@@ -72,7 +72,7 @@ Live links are currently available for:
 - Colouring Indonesia (https://colouring-indonesia-web.sites.er.kcl.ac.uk/)
 - [Colouring Australia](https://sydney.colouringaustralia.org/)
 - [Colouring Britain](https://colouringbritain.org/)
-- [Colouring Canada](https://nextgenerations-cities.encs.concordia.ca/colouringmontreal/)
+- [Colouring Canada](https://ngci.encs.concordia.ca/colouringmontreal/)
 - [Colouring Germany](https://colouring.dresden.ioer.de/) 
 - [Colouring Greece](https://athens.colouringcities.org/)
 - [Colouring Sweden](https://colouringsweden.se/)
