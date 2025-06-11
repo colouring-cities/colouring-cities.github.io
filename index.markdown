@@ -69,7 +69,7 @@ ________________________________________________________________________________
 All platforms are different stages of development, as shown on the map at the top of the page.
 
 Live links are currently available for:
-- Colouring Indonesia (https://colouring-indonesia-web.sites.er.kcl.ac.uk/)
+- [Colouring Indonesia](https://colouring-indonesia-web.sites.er.kcl.ac.uk/)
 - [Colouring Australia](https://sydney.colouringaustralia.org/)
 - [Colouring Britain](https://colouringbritain.org/)
 - [Colouring Canada](https://ngci.encs.concordia.ca/colouringmontreal/)
