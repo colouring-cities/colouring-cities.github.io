@@ -72,6 +72,7 @@ Live links are currently available for:
 - [Colouring Indonesia](https://colouring-indonesia-web.sites.er.kcl.ac.uk/)
 - [Colouring Australia](https://sydney.colouringaustralia.org/)
 - [Colouring Britain](https://colouringbritain.org/)
+Please note Colouring Britain is temporarily unavailable  as it is being transferred from The Alan turing Institute to Loughborough University, with backups at the University of Cambridge.
 - [Colouring Canada](https://ngci.encs.concordia.ca/colouringmontreal/)
 - [Colouring Germany](https://colouring.dresden.ioer.de/) 
 - [Colouring Greece](https://athens.colouringcities.org/)
