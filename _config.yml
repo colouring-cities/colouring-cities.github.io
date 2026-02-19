@@ -21,8 +21,7 @@
 title: The Colouring Cities Research Programme
 logo: assets/images/turing logo.png
 email: your-email@example.com
-description: The Colouring Cities Research Programme (CCRP) develops code for open-source, reproducible platforms that collect, verify and visualise data on the built and natural environment
-.
+description: The Colouring Cities Research Programme (CCRP) develops code for open-source, reproducible platforms that collect, verify and visualise data on the built and natural environment.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 # twitter_username: jekyllrb
