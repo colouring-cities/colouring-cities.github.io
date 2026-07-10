@@ -1,5 +1,5 @@
 
-<img width="968" height="303" alt="Screenshot 2026-07-10 at 15 58 07" src="https://github.com/user-attachments/assets/802829fc-fea5-4c00-8da7-2e3da4788db5" />
+<img width="968" alt="Screenshot 2026-07-10 at 15 58 07" src="https://github.com/user-attachments/assets/802829fc-fea5-4c00-8da7-2e3da4788db5" />
 
 ## What is the CCRP and why is it needed? 
 
