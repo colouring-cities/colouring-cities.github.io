@@ -2,11 +2,6 @@
 # Feel free to add content and custom Front Matter to this file.
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
-layout: default
----
-
-
-
 _________________________________________________________________________________
 
 ## What is the CCRP and why is it needed? 
@@ -86,7 +81,7 @@ Live links are currently available for:
 - [Colouring Indonesia](https://colouring-indonesia-web.sites.er.kcl.ac.uk/)
 - [Colouring Australia](https://sydney.colouringaustralia.org/)
 - [Colouring Britain](https://colouringbritain.org/)
-Please note Colouring Britain is temporarily unavailable  as it is being transferred from The Alan turing Institute to Loughborough University, with backups at the University of Cambridge.
+
 - [Colouring Canada](https://ngci.encs.concordia.ca/colouringmontreal/)
 - [Colouring Germany](https://colouring.dresden.ioer.de/) 
 - [Colouring Greece](https://athens.colouringcities.org/)
@@ -114,5 +109,5 @@ _______________________________________________________________________________
 _________________________________________________________________________________
 
 ## Contact
-If you are an academic institution involved in research into SDG related topics and would like to discussbecoming part of the CCRP network, please contact Polly Hudson at pavh2@cam.ac.uk.
+If you are an academic institution and would like to set up a CCRP national platform please contact Polly Hudson at the Dept of Computer Science and Technology, University of Cambridge @pavh2@cam.ac.uk.
 _______________________________________________________________________________
