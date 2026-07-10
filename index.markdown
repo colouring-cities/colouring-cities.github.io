@@ -1,8 +1,5 @@
----
-# Feel free to add content and custom Front Matter to this file.
-# To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
-_________________________________________________________________________________
+<img width="968" height="303" alt="Screenshot 2026-07-10 at 15 58 07" src="https://github.com/user-attachments/assets/802829fc-fea5-4c00-8da7-2e3da4788db5" />
 
 ## What is the CCRP and why is it needed? 
 
@@ -11,6 +8,8 @@ The Colouring Cities Research Programme (CCRP) is a collaborative,open knowledge
 The CCRP oversees a global network of free Colouring Cities visualisation platforms and open databases, providing microspatial data on the composition, operation, and long-term dynamic behaviour of buildings stocks and built infrastructure, with data on the natural environment also now captured. Research Institutions from over 30 countries are currently involved. All source code and data are released under open licences. 
 
 Collected data are used to improve the quality, efficiency, sustainability and resilience of national building stocks, to support AI and ML insights, to assist government's  in the move to net zero, and to support United Nation’s Sustainable Development Goals.  CCRP platforms are managed by national research institutions and research consortia,facilitate knowledge exchange about the environment between academia, government, industry, the third sector, and citizens on relevant SDG related data, and who who collaborate across countries to reduce research overlaps and costs, and accelerate problem solving  
+
+<img width="1424" height="779" alt="Colouring Britain energy   tree data " src="https://github.com/user-attachments/assets/3e36cc93-dec2-4b97-b7b4-3e8a50da36da" />
 
 
 ## CCRP mission 
