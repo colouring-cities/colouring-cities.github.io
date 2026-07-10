@@ -4,7 +4,7 @@
 
 layout: default
 ---
-<img width="285" alt="image" src="https://github.com/user-attachments/assets/dbc38941-4447-48cb-b1c9-6c8840c8c1fa" />
+
 
 
 _________________________________________________________________________________
@@ -104,7 +104,7 @@ Over 150 classes of standardised spatial data are integrated. These are containe
 
 Geolocated building footprints operate as mini filing cabinets able to capture, collate, verify, release, and visualise the spatial data, as well as providing information on the building ‘s shape and size. Since 2024 CCRP international expert groups have begun to be formed for all 12 CCRP main data categories. These recommend changes and additions to CCRP core data classes which are then reflected in the CCRP core repository.  
 
-CCCP partners use identical interfaces and logos and core data classes to maximise interoperability of systems, to maintain programme and platform quality, and to maximise user trust. No other applications of Colouring Cities open code are endorsed by the CCRP or The Alan Turing Institute other than those specified on the CCRP GitHub site and the [Alan Turing Institute ‘s CCRP webpage](https://www.turing.ac.uk/research/research-projects/colouring-cities-research-programme). This is important as experimentation with CCRP code is actively encouraged. Clear visual branding is also necessary to allow the purpose, principles, and quality of CCRP platforms to be instantly understood regardless of which country a Colouring Cities platform is operating in.  Where platforms differ is in additional subcategory inclusion specific to national or regional contexts. 
+CCCP partners use identical interfaces and logos and core data classes to maximise interoperability of systems, to maintain programme and platform quality, and to maximise user trust. No other applications of Colouring Cities open code are endorsed by the CCRP those specified on the CCRP GitHub site. This is important as experimentation with CCRP code is actively encouraged. Clear visual branding is also necessary to allow the purpose, principles, and quality of CCRP platforms to be instantly understood regardless of which country a Colouring Cities platform is operating in.  Where platforms differ is in additional subcategory inclusion specific to national or regional contexts. 
 
 <img width="1429" alt="Screenshot 2024-07-01 at 12 02 36" src="https://github.com/colouring-cities/colouring-cities.github.io/assets/42236514/673bab2f-17bc-4c9f-a958-199a1e47e63e">
 
