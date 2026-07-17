@@ -9,7 +9,7 @@ The CCRP oversees a global network of free Colouring Cities visualisation platfo
 
 Collected data are used to improve the quality, efficiency, sustainability and resilience of national building stocks, to support AI and ML insights, to assist government's  in the move to net zero, and to support United Nation’s Sustainable Development Goals.  CCRP platforms are managed by national research institutions and research consortia,facilitate knowledge exchange about the environment between academia, government, industry, the third sector, and citizens on relevant SDG related data, and who who collaborate across countries to reduce research overlaps and costs, and accelerate problem solving  
 
-<img width="1424" height="779" alt="Colouring Britain energy   tree data " src="https://raw.githubusercontent.com/colouring-cities/colouring-cities.github.io/refs/heads/main/assets/images/Colouring%20Britain%20energy%20%26%20tree%20data%20.png" />
+<img alt="Colouring Britain energy   tree data " src="https://raw.githubusercontent.com/colouring-cities/colouring-cities.github.io/refs/heads/main/assets/images/Colouring%20Britain%20energy%20%26%20tree%20data%20.png" />
 
 
 ## CCRP mission 
